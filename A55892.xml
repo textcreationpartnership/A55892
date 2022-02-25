@@ -1,0 +1,1131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of a people stiling themselves Philadelphians discovered in their nicest points and matters; accurately handled, shewing their rise, continuance, and tenents in doctrin and manner of proceeding, &amp;c. Also a curious discourse between an English dissenter and French Protestant, by way of dialogue, in vindication of the Church of England against novelties in religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55892</idno>
+            <idno type="STC">Wing P3494A</idno>
+            <idno type="STC">ESTC R219027</idno>
+            <idno type="EEBO-CITATION">99830563</idno>
+            <idno type="PROQUEST">99830563</idno>
+            <idno type="VID">35016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2076:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of a people stiling themselves Philadelphians discovered in their nicest points and matters; accurately handled, shewing their rise, continuance, and tenents in doctrin and manner of proceeding, &amp;c. Also a curious discourse between an English dissenter and French Protestant, by way of dialogue, in vindication of the Church of England against novelties in religion.</title>
+                  <author>Lafite, Daniel. Friendly discourse between an English dissenter and a French Protestant.</author>
+               </titleStmt>
+               <extent>[2], 17, [1], 111, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Whitwood, at the Rose and Crown in Little-Britain, price 6d.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a reissue of the first part of: Lafite, Daniel. A friendly discourse between an English dissenter and a French Protestant; text has separate pagination and register and does not include preliminary leaves.</note>
+                  <note>Cf. Wing L177.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Protestants --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35016:1" rendition="simple:additions"/>
+            <p>THE PRINCIPLES OF A PEOPLE Stiling themſelves <hi>Philadelphians,</hi> Diſcovered in their niceſt Points and Matters; accurately handled, ſhew<g ref="char:EOLunhyphen"/>ing their Riſe, Continuance, and Tenents in Doctrin and manner of Proceeding, <hi>&amp;c.</hi>
+            </p>
+            <p>ALSO A Curious Diſcourſe between an <hi>Engliſh Diſſenter</hi> and <hi>French Pro<g ref="char:EOLhyphen"/>teſtant,</hi> by way of Dialogue, in Vindication of the Church of <hi>England</hi> againſt Novelties in Religion.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Whitwood,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in <hi>Little-Britain,</hi> Price <hi>6d.</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35016:2"/>
+            <pb n="1" facs="tcp:35016:2"/>
+            <head>The Principles of a People ſtiling themſelves <hi>Philadelphians, &amp;c.</hi>
+            </head>
+            <p>THere has lately appeared in <hi>England,</hi> eſpecially at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the great Metropolis of this Kingdom a Sect, or certain number of People, who attribute to themſelves an extraordinary, San<g ref="char:EOLhyphen"/>ctity, pretending to Revelation of glorious things to come in their Church, and to be very near at hand. Wherefore finding the Diſ<g ref="char:EOLhyphen"/>courſe of them has made a great noiſe, and is much talked of, I have thought fit among other mat<g ref="char:EOLhyphen"/>ters, by way of Eſſay, to give a Light into their Principles, conſi<g ref="char:EOLhyphen"/>dering ſeveral who have heard of
+<pb n="2" facs="tcp:35016:3"/>them are ignorant of what they pre<g ref="char:EOLhyphen"/>tend to, and that from their own Writings and Sayings.</p>
+            <p>They ſeem to derive themſelves from a Sect long ſince ſtarted up, calling themſelves the Family of Love, now ſtilling themſelves <hi>Phila<g ref="char:EOLhyphen"/>delphians,</hi> or the Little Virgin Church of <hi>Philadelphia,</hi> waiting for, and expecting the Kingdom of Chriſt; and inviting all People to come into their Congregation, ab<g ref="char:EOLhyphen"/>ſurdly intimating, as if Salvation was no where elſe ſo ſure to be obtained; promiſing themſelves to grow by degrees into a glorious Church, adorned with Purity and Holineſs, a Virgin Church undefi<g ref="char:EOLhyphen"/>led; and this in ſome of their Wri<g ref="char:EOLhyphen"/>tings is ſaid to be revealed to them by the Holy One: However, they keep up much Mirth and Jollity, ſing Hymns of their own making, and would make the World believe
+<pb n="3" facs="tcp:35016:3"/>they are extraordinarily gifted a<g ref="char:EOLhyphen"/>bove others; and now hear their Principal Opinions and Tenents.</p>
+            <p>They hold there ſhall be a total and full Redemption by Chriſt, but that it is a hidden Myſtery not to be underſtood, without the Revelation of the Holy Spirit.</p>
+            <p>That the Holy Spirit is now at hand to reveal it to all loving En<g ref="char:EOLhyphen"/>quirers, and holy Seekers; and that at preſent the Completion of ſuch a Redemption is withheld and ob<g ref="char:EOLhyphen"/>ſtructed by the Apocaliptical Seals; wherefore as the Spirit of God ſhall open Seal after Seal, ſo ſhall this Redemption come in time to be re<g ref="char:EOLhyphen"/>vealed, not only particularly but al<g ref="char:EOLhyphen"/>ſo univerſally.</p>
+            <p>That in this gradual opening the Myſtery of Redemption in Chriſt, doth conſiſt the unſearchable Wiſ<g ref="char:EOLhyphen"/>dom of God, which continually may Reveal Truth and new things
+<pb n="4" facs="tcp:35016:4"/>to thoſe that worthily ſearch after them. In order to which the Ark of the Teſtimony ſhall be open in Heaven before the World ſhall end, and the living Teſtimony contained therein ſhall be unſea<g ref="char:EOLhyphen"/>led.</p>
+            <p>That the preſence of the Di<g ref="char:EOLhyphen"/>vine Ark will conſtitute the <hi>Phila<g ref="char:EOLhyphen"/>delphian</hi> Church, and where-ever that is, there of neceſſity muſt the Ark be; and that the unſeal<g ref="char:EOLhyphen"/>ing of the Living Teſtimony with<g ref="char:EOLhyphen"/>in the Ark of the Lord, muſt be<g ref="char:EOLhyphen"/>gin the promulgation of the ever<g ref="char:EOLhyphen"/>laſting Goſpel of the Kingdom.</p>
+            <p>That the proclaiming of the Teſtimony of the Kingdom will be done, as with the ſound of a Trumpet, to give notice of it to all the Nations upon Earth, and particularly to the Profeſſors of the Chriſtian Religion; becauſe it will be all ended with the power
+<pb n="5" facs="tcp:35016:4"/>of acting Wonders and Miracles, ſo that there ſhall be an Autho<g ref="char:EOLhyphen"/>ritative Deciſion immediatly given forth from Chriſt, for the putting an end to all Controverſies rela<g ref="char:EOLhyphen"/>ting to the True Church, and this Deciſion will be by the actual Sealing of the Members of the True Church, with the name of God, giving them a Commiſſion to Act by Virtue of the ſame, and this new Name, ſay they, will diſtinguiſh them, from the Seven Thouſand Names of <hi>Babylon;</hi> but however, the Election and Prepa<g ref="char:EOLhyphen"/>ration of this Church is to be af<g ref="char:EOLhyphen"/>ter a ſecret and hidden manner, as in his Minority <hi>David</hi> was approved before his other Brethren, and a<g ref="char:EOLhyphen"/>nointed by the Prophet <hi>Samuel;</hi> and though by that means ap<g ref="char:EOLhyphen"/>pointed King, yet did he not pre<g ref="char:EOLhyphen"/>ſently enjoy it in its outward Poſ<g ref="char:EOLhyphen"/>ſeſſion till after <hi>Saul</hi>'s Death.</p>
+            <pb n="6" facs="tcp:35016:5"/>
+            <p>Of the Stem of <hi>David</hi> after<g ref="char:EOLhyphen"/>wards aroſe a Church, and ano<g ref="char:EOLhyphen"/>ther Virgin Church is yet to a<g ref="char:EOLhyphen"/>riſe from the ſame Stem, that has not known Man, but as yet not Born, and ſhall be ignorant of Hu<g ref="char:EOLhyphen"/>mane Conſtitution: And if it be yet to be Born, then ſome conſide<g ref="char:EOLhyphen"/>rable time will be required be<g ref="char:EOLhyphen"/>fore it can outſtrip its Minority and come to conſiderable Age or Maturity.</p>
+            <p>The Birth ſay, they of the Vir<g ref="char:EOLhyphen"/>gin Church was viſionary Tippi<g ref="char:EOLhyphen"/>fied to St. <hi>John,</hi> by the great won<g ref="char:EOLhyphen"/>der in Heaven, a Woman bring<g ref="char:EOLhyphen"/>ing forth her Firſt-born, which was caught up to the Throne of God, <hi>Revel.</hi> 12. For as a Virgin Conceived and brought forth Chriſt after the Fleſh, ſo ſay they a Virgin is deſigned by God to bring forth the Firſt-born after the Spirit, who ſhall be ſilled with
+<pb n="7" facs="tcp:35016:5"/>the Holy Ghoſt and with Power, and the Virgin hereto deſigned muſt be of a pure Spirit and a Radiant Body, purged from Sin and Dead Works impregnated with the Holy Ghoſt, <hi>&amp;c.</hi>
+            </p>
+            <p>The Church ſo brought forth ſhall be Sealed with the Mark of the Divine Name, and have the gift of Miracles and Power, be<g ref="char:EOLhyphen"/>yond whatever hath been, ſo that all Nations thereby ſhall be brought unto it, and ſo it ſhall be the Ca<g ref="char:EOLhyphen"/>tholick Church, according to the utmoſt Latitude and genuine ſenſe of the Word and Signification: It alſo muſt be an anointed Church, whereby it may truly bear the Na<g ref="char:EOLhyphen"/>ture of Chriſt or Chriſtian, being with him Anointed to the Prieſt<g ref="char:EOLhyphen"/>ly, Prophetical and Kingly Digni<g ref="char:EOLhyphen"/>ty; and hence there will be no Impoſitions or Bonds, but the Ho<g ref="char:EOLhyphen"/>ly Unction among the new Born
+<pb n="8" facs="tcp:35016:6"/>Spirits will be all in all; and this Catholick anointed Church muſt be truly holy as Chriſt himſelf is holy, ſo worthily bearing the Name of the Lord our Holineſs or the Lord our Righteouſneſs.</p>
+            <p>That until there be ſuch a Church prepared on the Earth ſo Holy, ſo Catholick, and ſo Anointed, that is, without Spot or Blemiſh, A<g ref="char:EOLhyphen"/>dorned as a Bride to meet her Bridegroom. Chriſt will not per<g ref="char:EOLhyphen"/>ſonally deſcend to ſolemnize this Marriage (ſay they) nor preſent it to his Father; but when ſuch a Bri<g ref="char:EOLhyphen"/>dal Church ſhall be made ready, then he will no longer delay his Per<g ref="char:EOLhyphen"/>ſonal coming.</p>
+            <p>There is not (continue they) at this day viſible on Earth a Holy Catholick, Anointed, and Bridal Church; all the Churches and Profeſſions being found light when weighed in the Ballance, therefore
+<pb n="9" facs="tcp:35016:6"/>they cannot be termed this Church, but out of them a new and glo<g ref="char:EOLhyphen"/>rious Church ſhall ariſe up, in whom there ſhall be no fault to be found, like as he findeth none with <hi>Philadelphia;</hi> then ſhall the Glory of God and the Lamb be ſo reſted upon it, as the Clouds on the Tip<g ref="char:EOLhyphen"/>pical Tabernacle, that it ſhall be called the Tabernacle Church, and the Tabernacle of Wiſdom.</p>
+            <p>Tho' this <hi>Philadelphian</hi> Church is not yet known in viſibility, yet it may lie hid at this time in the Womb of the Morning, though time will bring it into viſibility, as coming out of the Wilderneſs in this preſent Age; then will it go on to Multiply and Propagate univerſally, not only to the num<g ref="char:EOLhyphen"/>ber of the Firſt-born, but alſo to the Remnant of the Seed, againſt which the Dragon ſhall make con<g ref="char:EOLhyphen"/>tinual War; wherefore the Spirit
+<pb n="10" facs="tcp:35016:7"/>of <hi>David</hi> muſt moſt eminently re<g ref="char:EOLhyphen"/>vive in this Church, and eſpecial<g ref="char:EOLhyphen"/>ly in the moſt Eminent Members of it, who ſhall have Power given them to reſiſt, and overcome the Dragon and his Angels: This will be ſtanding up of <hi>Michael</hi> the Great Prince of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>Egypt</hi> figures out the ſervile con<g ref="char:EOLhyphen"/>dition, under which each one of <hi>Abraham</hi>'s Seed doth groan; but a Prophet and Prophetical Gene<g ref="char:EOLhyphen"/>ration will the moſt High yet raiſe up, who with Spiritual Weapons will deliver his People. For Chriſt before his own diſtinct and Perſo<g ref="char:EOLhyphen"/>nal appearance, will firſt appear and repreſent himſelf in ſome cloſe Veſſel to be a Guide to the reſt, to bring them unto the Land of promiſe the new Created State, whereby they ſhall make away to the Redeemed of the Lord to re<g ref="char:EOLhyphen"/>turn to Mount <hi>Sion;</hi> but none ſhall
+<pb n="11" facs="tcp:35016:7"/>ſtand in any conſiderable Office un<g ref="char:EOLhyphen"/>der God, but ſuch as are tryed Stones, after the Pattern and Si<g ref="char:EOLhyphen"/>militude of the Chief Corner Stone Chriſt. This will be a Fiery Tryal, which but a few will be able to paſs; wherefore thoſe that wait for the Appearance of the Viſible Church, are ſtrictly charged to hold faſt that which they have, and wait together in unity of pure Love, praying in the Holy Ghoſt according to the Apoſtolick Pat<g ref="char:EOLhyphen"/>tern, that they may be ſent forth to multiply more univerſally.</p>
+            <p>As for this Tryal (ſay they) will be of abſolute neceſſity to every one in particular, and to all in ge<g ref="char:EOLhyphen"/>neral, for the Cementing and Con<g ref="char:EOLhyphen"/>ſtituting the True <hi>Philadelphian</hi> Church, by clearing away all the preſiding Infirmities of Nature, and burning up all the Hay-ſtubble and Droſs, which they may have
+<pb n="12" facs="tcp:35016:8"/>added to the Work of the Lord; for in the pure Church nothing muſt remain, but what can endure the Fiery Tryal, for as a Refiner will the Lord purifie the Sons and Daughters of it, that they may of<g ref="char:EOLhyphen"/>fer unto him an Offering in perfect Righteouſneſs.</p>
+            <p>Though (ſay they) the Operation of the Holy Spirit in the Waters may contend for, along with ma<g ref="char:EOLhyphen"/>ny Evils and Infirmities, but, ne<g ref="char:EOLhyphen"/>vertheleſs if it be kept warm and watched to it, cannot but work out a perfect Cure, and bring about a full and total Redemption from the Earth; wherefore it is requi<g ref="char:EOLhyphen"/>red on our part to ſuffer the Spirit of burning, to do upon us the Re<g ref="char:EOLhyphen"/>fining Work, Fanning us with his Fiery Breath, and ſearching every part within us, until all be pure and clear, and we arrive at the fixed Body from whence the Won<g ref="char:EOLhyphen"/>ders
+<pb n="13" facs="tcp:35016:8"/>are to flow out, and this Bo<g ref="char:EOLhyphen"/>dy (continue they) will be the Sea<g ref="char:EOLhyphen"/>ling character of the <hi>Philadelphian</hi> Church; upon this Body will be fixed the <hi>Urim</hi> and <hi>Thummim,</hi> Light and Perfection, that are to be appropriated to the Prieſts of the <hi>Melchizedekian</hi> Order, whoſe De<g ref="char:EOLhyphen"/>ſcent is not to be accounted in the Genealogy of that Creation, which is under the Fall, but in another Genealogy which is from the Re<g ref="char:EOLhyphen"/>ſtauration.</p>
+            <p>Hence they will have a deep Search, and a Divine Inſight to the ſecret things of God, and will be able to Prophecy in a clear Ground, not darkly or enegmati<g ref="char:EOLhyphen"/>cally, but will know what is couched in the firſt Originality of all Beings, and in the Eternal Ar<g ref="char:EOLhyphen"/>chetys of all Nature, and ſo will be capable to bring them forth ac<g ref="char:EOLhyphen"/>cording
+<pb n="14" facs="tcp:35016:9"/>to the Divine Councils and Ordinances. The mighty Spi<g ref="char:EOLhyphen"/>rit of <hi>Cyrus</hi> is appointed to lay the Foundation of the third Temple, and to ſupport its Building.</p>
+            <p>There are (ſay they) ſuch Cha<g ref="char:EOLhyphen"/>racters and Marks, whereby the pure Virgin Church ſo Founded, ſhall be certainly known and di<g ref="char:EOLhyphen"/>ſtinguiſhed from others, and where<g ref="char:EOLhyphen"/>by the true ſound and union of the Holy Ghoſt ſhall be diſcerned from that which is Low, Falſe, and Counterfeit; for there muſt be a Manifeſtation of the Spirit, where<g ref="char:EOLhyphen"/>by to edifie and raiſe up the Church ſuitable to the Reſurre<g ref="char:EOLhyphen"/>ction of Chriſt. This Manifeſta<g ref="char:EOLhyphen"/>tion therefore (ſay they) muſt be in the Abſoluteneſs of Power, as well as in the Beauty of Holineſs, to bring down Heaven upon Earth, and repreſent here the New <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi>
+               <pb n="15" facs="tcp:35016:9"/>State. In order to which Spirits that are thus pure Begotten and Born of God, can aſcend to the <hi>Jeruſalem</hi> above, and receive there ſuch a Miſſion, whereby they ſhall be empowered to bring down its Glory; and none but thoſe that are Riſen with Chriſt in Regene<g ref="char:EOLhyphen"/>ration can aſcend, and having re<g ref="char:EOLhyphen"/>ceived of his Glory can deſcend a<g ref="char:EOLhyphen"/>gain to communicate the ſame, and to be his Repreſentatives upon the New Earth as ſubordinate under him. But he that is Aſcended and Glorified has made himſelf as it were our Debtor, and will not be wanting to furniſh and qualifie our High and Principal Inſtruments who ſhall be moſt humble for the drawing to them the ſcatter'd Flock, and gathering them into one Fold, out of all Nations, Languages, and Kindred: Therefore there ſhould be
+<pb n="16" facs="tcp:35016:10"/>a Holy Emulation and Ambition, ſtired up among all Lovers of <hi>Jeſus,</hi> that they may be the firſt Fruits to Him that is riſen; and be made Principal Agents for him and with him; that they may be, if poſſible of the Firſt Born of the New <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> Mother.</p>
+            <p>That all Lovers of Jeſus, and true waiters for the Kingdom in Spirit under what Profeſſion ſoever, ſay they, or Forms diſperſed, ought to be numbred amongſt the <hi>Philadel<g ref="char:EOLhyphen"/>phian</hi> Spirits, to which this Meſſage appertains.</p>
+            <p>They own the Society is not the Church, but a Preparatory of ſuch as wait in the unity of Spirit for it Glorious Appearance and Manifeſta<g ref="char:EOLhyphen"/>tion. This and much more they de<g ref="char:EOLhyphen"/>liver; but, when all they can ſay i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done, the Purity of the Worſhip in the National Eſtabliſh'd Church
+<pb n="17" facs="tcp:35016:10"/>and the ſoundneſs of its Doctrine, ought to be adher'd to rather than new fangles, and uncertainties, and whimſies. A curious Diſcourſe of whoſe Diſcipline I ſhall now give you in a Dialogue between an <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Diſſenter and a <hi>French</hi> Prote<g ref="char:EOLhyphen"/>ſtant; wherein many curious Points are nicely handled and controverted, greatly for the Edification of the Reader.</p>
+         </div>
+         <div type="discourse">
+            <pb facs="tcp:35016:11"/>
+            <pb n="1" facs="tcp:35016:11"/>
+            <head>A Friendly Diſcourſe BETWEEN AN <hi>ENGLISH Diſſenter</hi> AND A <hi>FRENCH Proteſtant.</hi>
+            </head>
+            <sp>
+               <speaker>Engl. Diſ<g ref="char:EOLhyphen"/>ſenter.</speaker>
+               <p>I Underſtand, Sir, you are a <hi>French</hi> Prote<g ref="char:EOLhyphen"/>ſtant; I am heartily glad to ſee you.</p>
+            </sp>
+            <sp>
+               <speaker>Fr. Proteſtant.</speaker>
+               <p>You are truly in<g ref="char:EOLhyphen"/>form'd, Sir, I am a <hi>French</hi> Prote<g ref="char:EOLhyphen"/>ſtant.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray Sir, in what Condition are the poor Proteſtants in <hi>France?</hi>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:35016:12"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>When I left <hi>France,</hi> their Condition was very deplorable; and for any thing I hear, it continues ſo ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I am griev'd at my heart for them; for I am ſo much one with them as to their Religion, for which they are fo cruelly Perſecuted, that I cannot but extreamly Pity them.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Then I ſuppoſe, Sir, you are a Proteſtant.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Yes, Sir, and of the ſame Judgment as you are in matters of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am glad to underſtand ſo much; Like, we ſay, loves like.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray Sir, how long have you been in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Almoſt theſe five Years.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I do not doubt then, but that you are a good Proficient, by this time, in our Engliſh Tongue.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Truly, Sir, I have nothing to boaſt of in this regard; for whe<g ref="char:EOLhyphen"/>ther it be the hardneſs of the Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="3" facs="tcp:35016:12"/>Tongue, or the thickneſs of my Scull, I know not; but ſo it is, that I can onely make a ſhift to ſpeak ſome broken Engliſh.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Don't ſay ſo, Sir; me<g ref="char:EOLhyphen"/>thinks you ſpeak very intelligibly, and proper enough for a Foreigner. I can underſtand you very well; and if you pleaſe to enter with me, for this is my Houſe, I ſhall be glad to have ſome further diſcourſe with you.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Sir, I accept of your kind<g ref="char:EOLhyphen"/>neſs; and if you pleaſe to ſhew me the way, I ſhall follow you.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Sir, you are very heartily welcome; I am glad to ſee you here; be pleas'd to take a Seat. Pray Sir, how do you like our Countrey?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Extraordinary well, Sir; and were it not for the unhappy Di<g ref="char:EOLhyphen"/>viſions that are amongſt you, eſpe<g ref="char:EOLhyphen"/>cially in matters of Religion, I ſhould have reaſon to believe this, with the adjoining Iſlands, to be the <hi>Inſulae
+<pb n="4" facs="tcp:35016:13"/>Fortunatoe,</hi> or happy Iſlands of the Antients.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I perceive, Sir, you are ſen<g ref="char:EOLhyphen"/>ſible then of the Diviſions that are amongſt us.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Ay, Sir, I am but too well inform'd of them; and indeed very ſadly concern'd, to ſee that Prote<g ref="char:EOLhyphen"/>ſtants cannot agree amongſt them<g ref="char:EOLhyphen"/>ſelves, which certainly caſts a great blemiſh upon the Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>So it doth indeed, Sir; and you may thank the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Why the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Sir?</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Becauſe 'tis <hi>She</hi> has refuſed all terms of Accommodation, that we <hi>Proteſtant Diſſenters,</hi> as they call us, have offer'd to her.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I never heard that ſhe had refuſed any. But pray, Sir, be pleas'd to let me know, what thoſe terms are that you have offer'd her, and ſhe hath refuſed?</p>
+            </sp>
+            <pb n="5" facs="tcp:35016:13"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>We have propounded to her the laying aſide of the <hi>Common-prayer,</hi> and parting with her <hi>Ce<g ref="char:EOLhyphen"/>remonies;</hi> and for other things, we might probably comply with them.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>But, Sir, are you ſure that what you demand is reaſonable, and may juſtly be granted?</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Without doubt ſhe may, and ſhe ought, and ſhe can do no leſs for us, than to wave her Popiſh <hi>Common-prayer-book,</hi> and caſt off her ſuperſtitious <hi>Ceremonies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Pray, Sir, let me beg of you, to acquaint me, what you have to object againſt the Common-prayer; and afterwards, if the time gives leave, I ſhall be glad to hear what you have to alledge againſt our Church-Ceremonies.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>That I will, Sir; and ſhall do it the more freely, becauſe I ſhould be glad to undeceive you, for I perceive by your diſcourſe you are one of that Party.</p>
+            </sp>
+            <pb n="6" facs="tcp:35016:14"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>To deal ſincerely with you, Sir, I am a Member of the Church of <hi>England,</hi> but withall a true friend to Diſſenters; and I hope you will be ſo too, if in Anſwering your Ob<g ref="char:EOLhyphen"/>jections, I can convince you, that the Common-prayer of the Church is very good and edifying, and her Ceremonies lawfull and decent.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I ſhall conſider what you have to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>But, Sir, it lies at your door to begin, by propounding your Objections againſt the Common-prayer.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I have many things to ob<g ref="char:EOLhyphen"/>ject againſt that Idol: And, in the firſt place, I think it ought to be taken away, becauſe it is unlawfull to have a ſet Form of Prayer impos'd upon the Church.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Either you or I, Sir, are ſtrangely miſtaken in this point; for I muſt own, that my Judgment al<g ref="char:EOLhyphen"/>ways hath been, that it is not one<g ref="char:EOLhyphen"/>ly
+<pb n="7" facs="tcp:35016:14"/>lawfull to have a ſet Form of Prayer in the Church: but what is more, that no Church can well be without one.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray how ſo, Sir? For, if I be not greatly miſtaken, you ſpeak now againſt the General ſenſe of the <hi>French</hi> Proteſtants; for I never heard that they had any ſet Forms of Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I perceive, Sir, you have been ill inform'd concerning theſe matters; for, the truth is, we <hi>French</hi> Proteſtants have a Common-prayer-book, which was compos'd by <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> himſelf, and therein we agree with the concurring practiſe of the Univerſal Church: for I never read or heard of any Church in the World, but had a ſet Form of Pray<g ref="char:EOLhyphen"/>er; ſo that for you to oppoſe it, is no leſs than to deny the Authority, Teſtimony and Practiſe of all the Saints of the Old and New Teſta<g ref="char:EOLhyphen"/>ments, both Prophets and Apoſtles,
+<pb n="8" facs="tcp:35016:15"/>and the expreſs Command of our Saviour himſelf; and, in a word, Sir, you condemn the general ſenſe and practiſe of Chriſtianity and the Ho<g ref="char:EOLhyphen"/>ly Catholick Church.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I hear what you ſay, Sir, and expect you ſhould prove it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Nay more than this, you contradict the Example of our great Lord and Maſter, the Founder of our Religion, and <hi>the Author and Finiſher of our Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>This is a high Charge in<g ref="char:EOLhyphen"/>deed; but pray be pleas'd to make it out.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>That I will, Sir. Firſt I ſay, that you contradict the Authority and Practice of the Prophets in the Old Teſtament, foraſmuch as it is e<g ref="char:EOLhyphen"/>vident that they made uſe of ſet Forms of Prayer, and had a particu<g ref="char:EOLhyphen"/>lar Command ſo to doe: to be con<g ref="char:EOLhyphen"/>vinc'd of this, be pleas'd to reade the 26th Chapter of <hi>Deuteronomy,</hi> from Verſe 13. to 16. and the 14th. Chap<g ref="char:EOLhyphen"/>ter
+<pb n="9" facs="tcp:35016:15"/>of <hi>Hoſea,</hi> beginning at the ſecond Verſe, <hi>Take with you words, and turn unto the Lord, and ſay unto him,</hi> &amp;c. and the 2d of <hi>Joel,</hi> Verſe 17. <hi>Let the Prieſts, the Miniſters of the Lord, weep between the Porch and the Altar; and let them ſay, Spare thy people, O Lord,</hi> &amp;c.</p>
+               <p>Secondly, You contradict the Command of our Lord and Saviour, and the Practice of the holy Apo<g ref="char:EOLhyphen"/>ſtles, which I prove from the 11th Chapter of St. <hi>Luke,</hi> the 1ſt and 2d Verſes, where we reade that one of our Saviour's Diſciples asked him in the Name of all his Companions, to teach them to pray, as <hi>John</hi> had taught his Diſciples; whereupon our Saviour, addreſſing himſelf to all his Diſciples, ſaid, <hi>When ye pray, ſay, Our Father,</hi> &amp;c. From whence I infer theſe two things: Firſt, That the A<g ref="char:EOLhyphen"/>poſtles had a ſet Form of Prayer pre<g ref="char:EOLhyphen"/>ſcrib'd them by Chriſt himſelf; for it is impoſſible to order any Form
+<pb n="10" facs="tcp:35016:16"/>in more plain and expreſs terms, than our Saviour makes uſe of in recom<g ref="char:EOLhyphen"/>mending this Prayer to his Diſciples. Secondly, I conclude from hence, that the Diſciples made uſe of this Form; which will not be queſtion'd, if we conſider the great deſire they ſhewed to obtain this Form of Pray<g ref="char:EOLhyphen"/>er from our Saviour, and the readi<g ref="char:EOLhyphen"/>neſs wherewith they always obeyed the Commands he laid upon them. So that this cannot but be a ſuffici<g ref="char:EOLhyphen"/>ent proof to any thinking Man, that when they prayed, they made uſe of this Form or Preſcription their bleſſed Lord and Maſter had at their requeſt given them, with this expreſs Command; <hi>When you pray, ſay, Our Father,</hi> &amp;c.</p>
+               <p n="3">3. You oppoſe the General Prac<g ref="char:EOLhyphen"/>tice of Chriſtendom, and of the Holy Catholick Church; becauſe neither your ſelf, nor any Man elſe, can give an inſtance of any Church in the World, from the Apoſtles times to
+<pb n="11" facs="tcp:35016:16"/>theſe our days, but what had a ſet Form of Prayers: for though all have not uſed the ſame, yet there is no Church but has uſed ſome Form or other.</p>
+               <p n="4">4. You condemn the Example and Practice of our dear Lord and Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt himſelf; for it is e<g ref="char:EOLhyphen"/>vident that he himſelf made uſe of a Form of Prayer, <hi>Matt.</hi> 26. v. 44.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I will not undertake now to return you a particular Anſwer to what you have here alledged; but ſhall onely ſay, that Praying by a Form, has by experience been found a hindrance and obſtacle to true fer<g ref="char:EOLhyphen"/>vent Prayer in the Spirit; and to deal plainly with you, this ſeems to be one great reaſon why the Mini<g ref="char:EOLhyphen"/>ſters of the Church of <hi>England</hi> are ſo dull and ignorant in this point, and ſo little acquainted with ſpiri<g ref="char:EOLhyphen"/>tual Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am not a little ſurpriz'd at this your Anſwer; for having but
+<pb n="12" facs="tcp:35016:17"/>juſt now proved to you, that the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, the Holy Catho<g ref="char:EOLhyphen"/>lick Church, and Chriſt himſelf made uſe of Forms of Prayer; you, after all this, come and tell me, that Pray<g ref="char:EOLhyphen"/>ing by Forms, is a hindrance to Pray<g ref="char:EOLhyphen"/>ing by the Spirit; which is as much as to ſay, that neither the prophets, Apoſtles, the Catholick Church, nor Chriſt himſelf prayed by the Spirit, becauſe they made uſe of a ſet Form, which is a near ſtep to Blaſphemy.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I did not deſign to ſay ſo much neither; though I muſt con<g ref="char:EOLhyphen"/>feſs that, Praying by a ſet Form, ſeems to me (for I find it ſo by ex<g ref="char:EOLhyphen"/>perience) to be a great Obſtacle to true ſpiritual Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Though it may ſeem ſo to you; yet your Charity ſhould lead you rather to queſtion your own Judgment, than to paſs ſo raſh a Cen<g ref="char:EOLhyphen"/>ſure upon the Saints of the Old and New Teſtament, yea, upon Chriſt himſelf; beſides, you ought to be
+<pb n="13" facs="tcp:35016:17"/>very wary of expoſing your ſelf to the deriſion of all men, by ſuppoſing your ſelf wiſer than all the Prophets and Apoſtles, than the whole Chri<g ref="char:EOLhyphen"/>ſtain Church and Chriſt himſelf, ſince it is moſt certain that they made uſe of Forms; and not onely ſo, but our Saviour himſelf preſcri<g ref="char:EOLhyphen"/>bed a Form of Prayer to his Diſci<g ref="char:EOLhyphen"/>ples, commanding them, when they prayed, to uſe the ſame; which he would never have done, had it in<g ref="char:EOLhyphen"/>deed been ſo great a hindrance to ſervent Prayer by the Spirit, as you pretend.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>If it be not a hindrance to others, I am ſure 'tis ſo to me.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I hope I ſhall underſtand you better, if you pleaſe to explain to me what you mean by <hi>praying by the Spirit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I ſuppoſe no true Chriſtian can be ignorant of what Praying by the Spirit is, and therefore I can't ſee any neceſſity there is of explai<g ref="char:EOLhyphen"/>ning
+<pb n="14" facs="tcp:35016:18"/>a thing ſo obvious to the un<g ref="char:EOLhyphen"/>derſtanding of all.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Since you ſeem unwilling to give me your meaning, I am ve<g ref="char:EOLhyphen"/>ry free to give you mine; to pray by the Spirit is, as I take it, to pray by the help and aſſiſtance of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, ſo as to have our hearts and minds deeply affected with the ſenſe of our wants, and all our Fa<g ref="char:EOLhyphen"/>culties and Affections inflamed with the Love of God, and ſtedfaſt Faith in his Promiſes.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I perceive we do not diſ<g ref="char:EOLhyphen"/>agree at all in the meaning of the words.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am glad we are ſo far a<g ref="char:EOLhyphen"/>greed: for it is evident that, accor<g ref="char:EOLhyphen"/>ding to this meaning of the words, a ſet Form of Prayer is ſo far from being a <hi>hindrance,</hi> that indeed it is a great help <hi>to fervent praying by the Spirit;</hi> and on the contrary, Extem<g ref="char:EOLhyphen"/>porary Prayer muſt needs be a great impediment to it. To convince you
+<pb n="15" facs="tcp:35016:18"/>of this, I deſire you would conſider, that when we pray by a Form, we have more time to ſtudy the import of our Requeſts, and to weigh and examine every Petition with greater attention; we have more leiſure to underſtand and diſcern our wants, and to preſent them before God; we can the better prepare and diſ<g ref="char:EOLhyphen"/>poſe our ſelves for ſo holy a Duty; and in a word, we can be more in<g ref="char:EOLhyphen"/>tent and <hi>recollected</hi> to improve the motions of the Spirit, having no<g ref="char:EOLhyphen"/>thing elſe to doe, but to fix our mind wholly on God, whilſt we are praiſing of him, and have our hearts ſuitably affected with the things we pray for. Whereas in <hi>Extemporary Prayer,</hi> the mind of the Miniſter, or whoever elſe it is that prayeth, is taken up in hunting for expreſſions to utter his thoughts; and for fear of being put to a ſtand, he is forced to follow, not the motions of the Spirit, or the dictate of his under<g ref="char:EOLhyphen"/>ſtanding,
+<pb n="16" facs="tcp:35016:19"/>but the fluency of an ac<g ref="char:EOLhyphen"/>quired habit of Praying; and by this means doth often begin, where he ſhould end, and end where he ſhould begin. And thoſe very men that ſpeak ſo much againſt the neceſſary and edifying Repetitions that we uſe in our Common-prayer, do very fre<g ref="char:EOLhyphen"/>quently in their Extemporary-prayer repeat the ſame things over and o<g ref="char:EOLhyphen"/>ver again, though it may be in dif<g ref="char:EOLhyphen"/>ferent expreſſions. And as for the People that hear a Miniſter pray an Extemporary-prayer, as they do not know before-hand what he will ſay, they muſt firſt attend to what he ſaith; in the next place they muſt conſider whether what he prayeth be according to the Word of God, and fit for them to join with: but whilſt the Hearer is thus employ'd, he that prays is got to another thing, and leaves his Hearers behind to overtake him as they beſt can; which accor<g ref="char:EOLhyphen"/>ding to my apprehenſion makes the
+<pb n="17" facs="tcp:35016:19"/>way of praying extempore ſo diffi<g ref="char:EOLhyphen"/>cult and uneaſie, that it is morally impoſſible for both Miniſter and Peo<g ref="char:EOLhyphen"/>ple, to pray ſo devoutly, or at leaſt ſo underſtandingly as they ought to doe. If you pleaſe well to weigh and conſider what I have here offe<g ref="char:EOLhyphen"/>red, I queſtion not but you will be convinced, that a ſet Form of Pray<g ref="char:EOLhyphen"/>er is ſo far from being a <hi>hindrance,</hi> that it is a great furtherance to <hi>zea<g ref="char:EOLhyphen"/>lous praying by the Spirit;</hi> whereas the Prayer you are ſo much taken with, is indeed a great obſtacle to it.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>However Sir, I ſuppoſe you will grant me, that it is this tying themſelves up to a Form, that hath made the Miniſters of the Church of <hi>England</hi> ſo dull and devoid of the Gift of Prayer, that they cannot pray without Book; and may rather be compar'd to thoſe Dumb dogs whom the Prophet reproves, than be look'd upon as Miniſters of the Goſpel.</p>
+            </sp>
+            <pb n="18" facs="tcp:35016:20"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Though I am a Stranger here, yet I have very good reaſon to believe, that I am better acquainted with the Miniſters of the Church of <hi>England</hi> than you are, and am bet<g ref="char:EOLhyphen"/>ter inform'd of their parts and abili<g ref="char:EOLhyphen"/>ties, than you can be; for I have made it my buſineſs to be acquain<g ref="char:EOLhyphen"/>ted with them, not maliciouſly to ſlander and abuſe them, but to the end I might the better underſtand and value them, and profit by them. And if you will give me leave to ſpeak my Judgment, which is not grounded upon hear-ſay, but upon good knowledge of, and converſe with them, I muſt render them this true and unbiaſs'd teſtimony, That of all the Clergy I ever was acquainted with, they are the moſt Learned and Godly.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>You are a <hi>French</hi> man Sir and therefore I ſuppoſe that much of this may paſs for Compliment.</p>
+            </sp>
+            <pb n="19" facs="tcp:35016:20"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am indeed a <hi>French</hi>-man by birth, but yet I value my ſelf up<g ref="char:EOLhyphen"/>on this account, that in heart and affection I am a hearty true <hi>Engliſh</hi>-man. And fince you are pleas'd to look upon my judgment of the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Clergy no better than a Com<g ref="char:EOLhyphen"/>pliment, I challenge you to tell me, what Nation in the World can boaſt of having ſuch great and worthy Di<g ref="char:EOLhyphen"/>vines as we have?</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray how comes it to paſs then, that they cannot pray?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Who told you they could not? Sure I am that they both can and do pray; and that ſo excellent<g ref="char:EOLhyphen"/>ly, that as they ſurpaſs thoſe of o<g ref="char:EOLhyphen"/>ther Nations for Learning, ſo like<g ref="char:EOLhyphen"/>wiſe in Devotion, and the Gift of Prayer; and if you had taken time to peruſe their Books of Devotion, you would never have told me, as you do, <hi>That the preſcribing of a Form of Prayer has been the occaſion why the Miniſters of the Church of</hi>
+                  <pb n="20" facs="tcp:35016:21"/>England <hi>are become ſo dull and igno<g ref="char:EOLhyphen"/>rant, even to that exceſs, that they cannot pray.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>However, I think, they are much to blame; for that in their Pulpits, if they pray at all, they diſ<g ref="char:EOLhyphen"/>patch them in ſo few words, that any one that hears them will be apt to conclude, they cannot pray; but ſhould you once come to <hi>our Mee<g ref="char:EOLhyphen"/>tings, ay, there you would hear Pray<g ref="char:EOLhyphen"/>ing indeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I will not deny, but that commonly our Clergy, in the Pul<g ref="char:EOLhyphen"/>pit, uſe onely a ſhort Prayer before Sermon; but don't at all deſerve to be blam'd, but rather to be com<g ref="char:EOLhyphen"/>mended, for ſo doing; if we conſi<g ref="char:EOLhyphen"/>der, firſt, that our Clergy chuſe to make uſe of a ſhort Prayer onely be<g ref="char:EOLhyphen"/>fore Sermon, becauſe they have found, by wofull Experience, that long extemporary Prayers have be<g ref="char:EOLhyphen"/>got, in moſt People, a diſlike of the Common-prayer, and conſequently
+<pb n="21" facs="tcp:35016:21"/>have been the occaſion of thoſe un<g ref="char:EOLhyphen"/>chriſtian Animoſities, Schiſms and Diviſions, that are ſo rife amongſt us. And, I think, you have no juſt reaſon to blame this pre-caution of theirs, till you have made out, firſt, that the People doe well to under<g ref="char:EOLhyphen"/>value and deſpiſe <hi>the Common-prayer,</hi> and that the Averſion they have for it is a ſufficient ground for Schiſm and Diviſion. A ſecond reaſon why the Miniſters of the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> uſe ſuch ſhort Prayers is, that by this means they may condeſcend to the weakneſs of the People, leſt an over-long Prayer ſhould weary thoſe who have already attended upon, and join'd their hearts and voices with, the publick Prayers of<g ref="char:EOLhyphen"/>fer'd up to God by the Church. And in the third and laſt place, we ſhall find that there is nothing good or uſefull for us, which the Miniſter hath not already prayed for, nor a<g ref="char:EOLhyphen"/>ny thing evil or hurtfull, which he
+<pb n="22" facs="tcp:35016:22"/>has not deprecated in the publick Prayers appointed by the Church, which methinks might at leaſt leſſen the fault of our Clergy in your ſight, and ſomewhat allay the bitterneſs of your Cenſure againſt them. And as for your Meetings, where you tell me there is Praying indeed, I muſt freely tell you, that though I never was at any Meeting in my life, yet I have often had an opportunity of hearing your Miniſters pray; but foraſmuch as my temper doth not incline me, and my Religion much leſs, to paſs any offenſive Reflexion upon any ſort of People, therefore I humbly crave leave to be excus'd from giving you my opinion of them.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Though I cannot but ap<g ref="char:EOLhyphen"/>prove of your Modeſty in this re<g ref="char:EOLhyphen"/>gard, yet I ſhould be glad to have you ſpeak out; and therefore I de<g ref="char:EOLhyphen"/>ſire you to tell me freely from your heart, what you think of them; and
+<pb n="23" facs="tcp:35016:22"/>whether they do not pray very well?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Becauſe you urge me, I ſhall, in compliance with your deſires, tell you, and that with all the truth and ſincerity imaginable, that I am ſo far from liking their unpremeditated ex<g ref="char:EOLhyphen"/>temporary Prayers, that I altogether diſapprove them; and above all, am much offended at their way of pray<g ref="char:EOLhyphen"/>ing.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Sure you don't ſpeak from your heart now, as I deſired you would, for if you did, you could not ſay ſo; ſince it is certain that they pray incomparably better than any of your Church-men: one of their unpremeditated Prayers being far be<g ref="char:EOLhyphen"/>yond all the Prayers that are in your Common-prayer-book.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Good Sir, I muſt entreat you for once to lay aſide all your Prejudices, and to make uſe of your Reaſon ſo far as to conſider, whether it be not morally impoſſible, that men, who never were brought up
+<pb n="24" facs="tcp:35016:23"/>in an Univerſity, and ſcarcely ever had the full inſtruction of a Gram<g ref="char:EOLhyphen"/>mar-ſchool, which may be ſaid of the moſt of your Miniſters, ſhould without any premeditation pray in<g ref="char:EOLhyphen"/>comparably better than our Church<g ref="char:EOLhyphen"/>men, who have had the beſt means and opportunities in the World to improve their parts and abilities? And whether an extemporary Pray<g ref="char:EOLhyphen"/>er whined out (I beg your pardon if that word offend you) by an il<g ref="char:EOLhyphen"/>literate man, ſhould infinitely ſurpaſs all the Prayrs of the Common-pray<g ref="char:EOLhyphen"/>er-book, which have been compiled by ſome of the wiſeſt and moſt Ju<g ref="char:EOLhyphen"/>dicious Divines that ever <hi>England</hi> could boaſt of.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>How ſtrangely you talk now, as if it were impoſſible for any man to pray well that hath not been bred at the Univerſities?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>You miſtake me Sir, this was none of my aſſertion, I onely ſaid, it was morally impoſſible, that
+<pb n="25" facs="tcp:35016:23"/>illetrate men ſhould pray incompa<g ref="char:EOLhyphen"/>rably better than thoſe that have been brought up at the Univerſities, whoſe whole buſineſs and employ<g ref="char:EOLhyphen"/>ment it is to underſtand the Scrip<g ref="char:EOLhyphen"/>ture, and to be converſant in thoſe ſtudies that moſt conduce to true Godlineſs, which ſurely are the beſt means to teach them to pray alſo.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But the Apoſtles you know were ſimple illiterate men, and yet they could pray infinitely bertter than all the <hi>Rabbies,</hi> and all the great Doctors of the Synagogue.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I grant you that, but with<g ref="char:EOLhyphen"/>all deſire you would conſider, that though the Apoſtles were illiterate men, yet were they extraordinary men, call'd and ſent by God in an extraordinary manner, to bring a<g ref="char:EOLhyphen"/>bout an extraordinary work, yea, a Work greater than that of the Cre<g ref="char:EOLhyphen"/>ation it ſelf; they were by their Mi<g ref="char:EOLhyphen"/>niſtry to change and renew the face of the whole World, to pluck the
+<pb n="26" facs="tcp:35016:24"/>falſe Gods from their Temples, to beat down their Altars, to ſilence their Oracles, to aboliſh their Wor<g ref="char:EOLhyphen"/>ſhip, to root out their Cuſtoms, to o<g ref="char:EOLhyphen"/>vercome their Prejudices, and to op<g ref="char:EOLhyphen"/>poſe and defeat a Religion, of as long ſtanding as the World it ſelf; a Religion that was in full poſſeſſion of the Spirits of all men, and which by conſequence could engage for her defence whatſoever was authorita<g ref="char:EOLhyphen"/>tive, great or powerfull amongſt all Nations. They were to be the Plan<g ref="char:EOLhyphen"/>ters of a new Religion in the World, to brave and challenge all the pow<g ref="char:EOLhyphen"/>er of Princes, to ſtand the ſhock of the Sophiſms of Philoſophers, and the Politicks of States-men; to ſtem the violent torrent of the Mobile, and to hold out againſt the Perſecutions of all the wicked. Now that they might be qualified and capacitated for this ſtrange and wonderfull un<g ref="char:EOLhyphen"/>dertaking, God was pleaſed to in<g ref="char:EOLhyphen"/>dow them with many miraculous
+<pb n="27" facs="tcp:35016:24"/>Gifts and Powers, as of Prophecy<g ref="char:EOLhyphen"/>ing, ſpeaking all ſorts of Languages, working of Miracles, <hi>&amp;c.</hi> in order to which the Holy Ghoſt, who is the true and alone Spirit of Prayer, came down upon them, in a viſible and miraculous manner. Which things being ſo, for you to fetch an Argument from the Example of the Apoſtles, either in reſpect of their Perſon, Miſſion or extraordinary and miraculous Gifts, and apply the ſame to your Miniſters, is every<g ref="char:EOLhyphen"/>whit as improper, as if you ſhould go about to prove, that you or I can ſtop the Sun in his Courſe, be<g ref="char:EOLhyphen"/>cauſe <hi>Joſhua</hi> did ſo.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I never intended by produ<g ref="char:EOLhyphen"/>cing the Example of the Apoſtles, to prove our Miniſters equal to them, as to their extraordinary gifts and graces; neither do I ſuppoſe, will you dare to compare the <hi>Coiners</hi> of your Liturgy or Common-prayer, with thoſe holy Men, the Apoſtles
+<pb n="28" facs="tcp:35016:25"/>of our Lord and Saviour?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I never did; I onely ſaid, that the Compilers of our Liturgy, were ſome of the moſt Pious and Learned men that ever <hi>England</hi> did afford.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>They were no better than bigoted Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>How can that be, when it is known that they ſuffered Perſcu<g ref="char:EOLhyphen"/>tion, nay, Martyrdom it ſelf, in the defence of the Proteſtant Religion, and ſealed and ratified the Common-prayer, they had compoſed, with their Bloud?</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But, pray Sir, who gave them the power to compoſe the Common-prayer-book?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>They had their Power and Authority from God and the King.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I ſhall be glad to hear you prove it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>That I will Sir, for it is no ſuch difficult matter as you may ſuppoſe. I ſay therefore, firſt, that
+<pb n="29" facs="tcp:35016:25"/>they had their power from God; for they being Biſhops and Gover<g ref="char:EOLhyphen"/>nours of the Church, had an un<g ref="char:EOLhyphen"/>queſtionable Power and Commiſſion, by virtue of their Charge and Of<g ref="char:EOLhyphen"/>fice, to redreſs and reform whatſo<g ref="char:EOLhyphen"/>ever was amiſs in the Divine Ser<g ref="char:EOLhyphen"/>vice; and foraſmuch as in ſome fore<g ref="char:EOLhyphen"/>going Ages the Prayers of the Church had been corrupted and a<g ref="char:EOLhyphen"/>dulterated, by inſerting doubtfull Stories and Legends, with a ſuper<g ref="char:EOLhyphen"/>fluous multiplicity of Reſponſals, Prayers to the Bleſſed Virgin and other Saints Frayers for the Dead, vain Repetitions, Commemorations and Synodals, <hi>&amp;c.</hi> they very wiſely and prudently caſt away all that was Popiſh and Superſtitious, retaining onely what was ſound, ancient and edifying, and added f<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Prayers that were truly Apoſtolic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Pri<g ref="char:EOLhyphen"/>mitive. And beſides they had a ſpe<g ref="char:EOLhyphen"/>cial Order and Command from King <hi>Edward</hi> VI. authorizing them ſo to<g ref="char:EOLhyphen"/>doe.</p>
+            </sp>
+            <pb n="30" facs="tcp:35016:26"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I find all your Diſcourſe comes to this, that the Compilers of your Common-prayer-book, one<g ref="char:EOLhyphen"/>ly chop'd and chang'd the <hi>Romiſh</hi> Liturgy, and out of it, with ſome Additions of their own, patch'd up the Liturgy which is now uſed by the Church of <hi>England,</hi> and which you do ſo much admire. Now you know the Popiſh Liturgy is no o<g ref="char:EOLhyphen"/>ther than their Maſs-book, which I think might, to much better pur<g ref="char:EOLhyphen"/>poſe, have been quite laid aſide, than reform'd and patch'd up a<g ref="char:EOLhyphen"/>gain.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am not of your opinion, and the Reaſons that hinder me are theſe: Firſt, Thoſe Holy Men we are ſpeaking of, had no Power or Au<g ref="char:EOLhyphen"/>thority committed to them to plant or inſtitute a new Religion, but one<g ref="char:EOLhyphen"/>ly to reform the Abuſes that were crept into the Church, and the Cor<g ref="char:EOLhyphen"/>ruptions of the pulick Worſhip of God, which is the chiefeſt part of
+<pb n="31" facs="tcp:35016:26"/>the Chriſtian Religion: now in this caſe it is evident, that it was none of their duty or office to take away the whole publick Service or Litur<g ref="char:EOLhyphen"/>gy, which indeed at that time was very corrupt, though not to that degree, but that ſome good was ſtill found amongſt it, but onely to change what was amiſs, to ſupply the defects of it, and caſt away whatſoever was corrupt or ſuperflu<g ref="char:EOLhyphen"/>ous. Secondly, It was great wiſe<g ref="char:EOLhyphen"/>dom in them to obſerve the mean between two extreams, by ſhunning on the one hand a Spirit of bitter<g ref="char:EOLhyphen"/>neſs and hatred againſt the Party they reformed from; and on the other hand avoiding a ſinfull com<g ref="char:EOLhyphen"/>pliance with the corruptions of thoſe, who were ſo unwilling to part with their Idolatry and Superſtition. And farther to illuſtrate my Argument, I muſt tell you, that the Reformers of our Church acted according to this commendable Maxim of Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="32" facs="tcp:35016:27"/>Charity and Moderation, <hi>viz. That in love and condeſcention to the Church of</hi> Rome, <hi>we ought not to re<g ref="char:EOLhyphen"/>ject any thing uſed by them, but what is found contrary to the Word of God:</hi> whereas the Reformers of your Par<g ref="char:EOLhyphen"/>ty proceed according to this Rule, That <hi>in hatred and deteſtation of Po<g ref="char:EOLhyphen"/>pery, we ought not to admit the leaſt thing the Papiſts make uſe of in their Divine Service; and onely for this reaſon, becauſe they uſe it.</hi> Now I would fain know of you, which of theſe two you take to be the moſt Chriſtian and Charitable method? and whether the Principle our Re<g ref="char:EOLhyphen"/>formers went by, be not preferable to that of your Party? The Reaſon is evident beyond diſpute; becauſe our Reformers, by retaining what was good and of primitive Purity in the publick Service of the Roma<g ref="char:EOLhyphen"/>niſts, and rejecting onely what was manifeſtly corrupt and ſuperſtitious, they left a door open for them, and,
+<pb n="33" facs="tcp:35016:27"/>as it were, friendly invited them, to leave their Adulterous Church, and to enter into our Communion.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But pray tell me what great or good effect this Condeſcen<g ref="char:EOLhyphen"/>ſion did ever yet produce; for I ne<g ref="char:EOLhyphen"/>ver underſtood that this their mo<g ref="char:EOLhyphen"/>derate and deſigning way of Refor<g ref="char:EOLhyphen"/>ming the Church, has been a means to perſuade the Papiſts to leave their Idolatry and Superſtitions, and to become Converts to their Church.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If I ſhould grant you that the number of Popiſh Converts to our Church, is not very conſidera<g ref="char:EOLhyphen"/>ble; will it follow from thence, that the means uſed for ſo good and cha<g ref="char:EOLhyphen"/>ritable and End, were undue or un<g ref="char:EOLhyphen"/>lawfull? For though God hitherto hath not been pleaſed to bleſs theſe good means, with the greateſt ſuc<g ref="char:EOLhyphen"/>ceſs that might be wiſh'd for, yet we know not how ſoon he may; eſpecially, conſidering that we had never more reaſon to expect, the to<g ref="char:EOLhyphen"/>tal
+<pb n="34" facs="tcp:35016:28"/>downfall of Popery; which, ac<g ref="char:EOLhyphen"/>cording to outward appearance, can no way ſo probably be brought a<g ref="char:EOLhyphen"/>bout, as by the Papiſts embracing the Proteſtant Religion. Let us therefore take heed of deriding (as you ſeem to do) thoſe lawfull, mo<g ref="char:EOLhyphen"/>derate, and Chriſtian-like methods, the Church of <hi>England</hi> hath made uſe to facilitate the Papiſts Conver<g ref="char:EOLhyphen"/>ſion.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I find then, you take your Common-prayer to be a lawfull, mo<g ref="char:EOLhyphen"/>derate, and Chriſtian-like method or means to facilitate the Converſion of the Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I do ſo; and I queſtion not but, in due time, it will prove very effectuall that way to the ſtopping of the mouths of all gain-ſayers.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Ay, you may look for it long enough, I ſuppoſe; and if by great chance it ſhould ever prove to be an effectual means, I dare ſay, for all that, it will never be a law<g ref="char:EOLhyphen"/>full
+<pb n="35" facs="tcp:35016:28"/>one; for, to ſpeak freely, and without mincing the matter, I am of opinion, that, though it may be lawfull to uſe ſome Form of Prayer, yet it is altogether unlawfull to uſe that Form, which is now in vogue a<g ref="char:EOLhyphen"/>mongſt you.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Then I find you are not al<g ref="char:EOLhyphen"/>together irreconcilable to the Law<g ref="char:EOLhyphen"/>fulneſs of Praying by Forms; but you are not ſatisfied with the Forms we uſe. I ſhall be glad to hear the Grounds of your diſſatisfaction; as hoping by this means to have an opportunity offer'd me, to enlarge my ſelf more in the Praiſe of our Common-prayer, than hitherto I have had occaſion to do.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I know the humour of <hi>French-men</hi> is to be complaiſant and <hi>complimental;</hi> and ſo very probably you deſign, in comliment to the Church of <hi>England,</hi> to fall down to the Common-prayer, the great Idol of the <hi>Engliſh</hi> Clergy; as you have
+<pb n="36" facs="tcp:35016:29"/>already expreſs'd your great Re<g ref="char:EOLhyphen"/>ſpects for their dull and prophane Prieſts.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I beg of you, sir, let us diſ<g ref="char:EOLhyphen"/>courſe without Prejudice or Paſſion; and be ſo kind as to tell me calmly and friendly, what Objections you have againſt our Common-prayer-book in particular.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Before I give you the Par<g ref="char:EOLhyphen"/>ticular Objections I have againſt the Common-prayer-book, I ſhall pre<g ref="char:EOLhyphen"/>miſe this General Obſervation, That your Common-prayer is ſo bad, that there is nothing good in it; no, nor any thing that is ſo much as tole<g ref="char:EOLhyphen"/>rable.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>How ſtrangely you and I differ in Opinion? As for my part, I really think there is nothing in it, but what is very good.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>If you can prove that, as I deſire you would, <hi>Eris mihi magnus Apollo;</hi> for indeed you will do more than all your Clergy-men that ever
+<pb n="37" facs="tcp:35016:29"/>I diſcours'd with, and more than all the Books that treat of this Subject, have been able to do.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If the caſe be ſo indeed, I ſhould be loath to undertake the task: For if none of our Clergy, that you have diſcours'd with, nor any of thoſe excellent Books, writ<g ref="char:EOLhyphen"/>ten in the Defence of our Liturgy, have been able to convince you of the goodneſs and uſefulneſs thereof, it would be folly for me to attempt it; for I am very ſenſible, that my Parts and Abilities, are far below any one of our Clergy, that you have had to deal with; and to ſpeak the truth, 'tis from them and their Writings I have acquired the beſt part of that little learning, and in<g ref="char:EOLhyphen"/>ſight into theſe things, that I have.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I hope you are as modeſt a Man as your diſcourſe would im<g ref="char:EOLhyphen"/>port; beſides, being a <hi>French</hi> Prote<g ref="char:EOLhyphen"/>ſtant, you, as ſuch, can have neither publick nor private Reaſon, to bear
+<pb n="38" facs="tcp:35016:30"/>any ill-will to our Party; where<g ref="char:EOLhyphen"/>fore I look upon you as an unbiaſs'd Perſon, without Prejudice or Partia<g ref="char:EOLhyphen"/>lity, and conſequently fit to be diſ<g ref="char:EOLhyphen"/>cours'd with, about the matter in queſtion, between us: And indeed all this makes me the more deſirous to hear the Arguments you can pro<g ref="char:EOLhyphen"/>duce for proving your Aſſertion, That there is nothing in the Com<g ref="char:EOLhyphen"/>mon-prayer-book, but what is very good.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I thought all this while that you intended to propound your Ob<g ref="char:EOLhyphen"/>jections againſt the Common-pray<g ref="char:EOLhyphen"/>er; and that my onely buſineſs would have been to Anſwer them.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I ſuppoſe we may do both theſe things at once; for if you pleaſe to tell me what you find ſo extraordinary good in the Com<g ref="char:EOLhyphen"/>mon-prayer, I ſhall alſo, on my part, declare what I diſlike in it.</p>
+            </sp>
+            <pb n="39" facs="tcp:35016:30"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Be it ſo. And to the end we may proceed with ſome order, let us curſorily reade over the Com<g ref="char:EOLhyphen"/>mon-prayer-book, which I have here with me.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>This indeed will be a good way to enable us to judge the bet<g ref="char:EOLhyphen"/>ter concerning it; and therefore I am very free to run it over with you; onely muſt deſire you, not to take it ill, if now and then I inter<g ref="char:EOLhyphen"/>rupt you with my Objections againſt any part of it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>What you deſire, is con<g ref="char:EOLhyphen"/>tain'd in our agreement for accor<g ref="char:EOLhyphen"/>ding to it; I am to tell you, what I approve of in our Liturgy; and you are to tell me, what you diſlike in it, by propounding your Objections againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Very well; and in ſo do<g ref="char:EOLhyphen"/>ing we ſhall finely Anatomize theſe Relicks of Popery. But it is your turn to begin.</p>
+            </sp>
+            <pb n="40" facs="tcp:35016:31"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>The firſt thing I meet with in our Common-prayer-book, are <hi>ſome Sentences</hi> of the Holy Scrip<g ref="char:EOLhyphen"/>tures, of which the Miniſter is to reade one or more, before he pro<g ref="char:EOLhyphen"/>ceeds to the Prayers or Devotions, which ſeems to me to be very pro<g ref="char:EOLhyphen"/>per and uſefull; for certainly we can never better begin God's Ser<g ref="char:EOLhyphen"/>vice, than with his own Words.</p>
+               <p>Next follows an <hi>Exhortation,</hi> wherein is repreſented to the Peo<g ref="char:EOLhyphen"/>ple, the <hi>End</hi> of their preſent aſſem<g ref="char:EOLhyphen"/>bling or meeting together; which is, as the Exhortation expreſſeth it, <hi>To confeſs their Sins, to render Thanks to God, to ſet forth his Praiſe, and to ask thoſe things that be neceſſary either for Soul or Body:</hi> and towards the end thereof, we are informed and directed how to perform theſe holy and bounden Duties, <hi>viz.</hi> ſin<g ref="char:EOLhyphen"/>cerely and reverently, <hi>with a pure heart, and humble voice:</hi> which cau<g ref="char:EOLhyphen"/>tion is very neceſſary, if we conſi<g ref="char:EOLhyphen"/>der
+<pb n="41" facs="tcp:35016:31"/>how prone Men are, without any due preparation of themſelves, to ruſh into the preſence of the great God, who is a conſuming fire, and before whom they ought to appear with the moſt reverential awe and trembling; as likewiſe how apt we are to utter any thing before him, without conſidering, that he is in Heaven, and we on Earth; and how negligent we generally are, in diſpoſing and qualifying our ſelves, for the acceptable performance of the Sacred Duties of our Religious Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>So far all is pretty tolera<g ref="char:EOLhyphen"/>ble; but by and by, we ſhall meet with <hi>a great deal of ſtuff.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Not to inſiſt now upon your plain contradicting of your ſelf; for whereas but juſt now, you poſitively aſſerted, that there was nothing, ſo much as tolerable in our Liturgy, you now plainly con<g ref="char:EOLhyphen"/>feſs
+<pb n="42" facs="tcp:35016:32"/>the contrary; I ſhall onely de<g ref="char:EOLhyphen"/>ſire you, when we come to thoſe places, where your great deal of ſtuff lies, that you would ſtop me, for I ſhall be glad to hear the Ob<g ref="char:EOLhyphen"/>jections you have againſt any part of it; and in the mean time I pro<g ref="char:EOLhyphen"/>ceed to ſpeak of the <hi>Confeſſion,</hi> which is the next thing that occurs in our Liturgy. The Miniſter and People having been thus ſtirr'd up by the foregoing Exhortation to compoſe their Thoughts, and prepare their Hearts for a due offering up of their Morning or Evening Sacrifice; the next thing they do, is, to fall down on their knees, <hi>confeſſing</hi> in a ſolemn and humble manner their Sins unto Almighty God, earneſtly imploring his Grace and Mercy for the Pardon of them. And this, according to my apprehenſion, is very proper and neceſſary in our approaches to God; for ſince it is our Sins that ſeparate
+<pb n="43" facs="tcp:35016:32"/>between God and us, and hide his face from us; we can do no better than, in the firſt place, to beg of our moſt mercifull Father the Re<g ref="char:EOLhyphen"/>miſſion of them, that he may utter<g ref="char:EOLhyphen"/>ly efface them, and put them out of the way of interrupting the free courſe of his gracious and benign Communications and Influences. <hi>If I regard,</hi> ſaith the Pſalmiſt, <hi>iniquity in my heart, the Lord will not hear my prayer,</hi> Pſal. 66. v. 16. More<g ref="char:EOLhyphen"/>over, it is very reaſonable, before we beg any favour from God, to entreat for a removal of thoſe Evils we groan under, <hi>viz.</hi> the guilt and puniſhment of our Sins.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I ſuppoſe you did not ob<g ref="char:EOLhyphen"/>ſerve this method in the Com<g ref="char:EOLhyphen"/>mon-prayer the Proteſtants uſe in <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Yes, but we did. Our Mi<g ref="char:EOLhyphen"/>niſters always begin Divine Service with a Sentence of the Holy Scrip<g ref="char:EOLhyphen"/>tures;
+<pb n="44" facs="tcp:35016:33"/>and I ſhall not ſcruple to tell you, that it is expreſly the ſame with which the Roman Office of the Maſs beginneth, (and yet we have had the good luck, never to be cen<g ref="char:EOLhyphen"/>ſur'd as Popiſhly affected upon this account;) and in the next place, they proceed to exhort and invite the People to accompany them to the Throne of the heavenly Grace, repeating after them a Confeſſion of Sins, in ſubſtance much the ſame with that in the Engliſh Liturgy.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But your Miniſters did not reade theſe Prayers out of a Book, as the ſcandalous and lazy Clergy here in <hi>England</hi> do.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I find you make it your buſineſs to affront our Clergy at every turn, and ſuppoſe the moſt abuſive and ſcurrilous Language to be good enough for them; yet que<g ref="char:EOLhyphen"/>ſtion much, whether you would take it well to be paid in the ſame
+<pb n="45" facs="tcp:35016:33"/>coin; however, I cannot but tell you my thoughts, which incline me to believe you have learned theſe ill manners from your own Miniſter.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>What, I hope you will not accuſe our Miniſter of being un<g ref="char:EOLhyphen"/>mannerly? For I dare ſay he is as courteous and civil, as affable and obliging, and, in a word, as much a Gentleman as any Man I know of.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>He ſhewed himſelf to be ſo indeed, when the other day being in his Pulpit, thought fit to inter<g ref="char:EOLhyphen"/>rupt the ſeries of his diſcourſe to give the lye, to a perſon entring into the Meeting, who, it ſeems, had re<g ref="char:EOLhyphen"/>ported ſomething, as he conceiv'd, to his diſadvantage.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Ay, this is a fine ſtory, forg'd at pleaſure by ſome of your Clergy-men, to expoſe and make our Miniſters odious.</p>
+            </sp>
+            <pb n="46" facs="tcp:35016:34"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>'Tis ſo far from being a ſto<g ref="char:EOLhyphen"/>ry, that I am ready to juſtifie the truth of it, by many credible Ear<g ref="char:EOLhyphen"/>witneſſes. But to return to the mat<g ref="char:EOLhyphen"/>ter in hand; though firſt I muſt tell you in anſwer to your queſtion, that our <hi>French</hi> Miniſters always uſe their Books in repeating of their Common-prayer, reading it word by word, and yet have been ſo happy, as to eſcape the Cenſure of being either <hi>ſcandalous</hi> or <hi>lazy</hi> upon that account.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I onely ask you this que<g ref="char:EOLhyphen"/>ſtion by the bye. But let us ſee what follows.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>After the <hi>Confeſſion,</hi> which is the laſt thing we have ſpoke of, follows the <hi>Abſolution,</hi> wherein the Miniſter declares and pronounces to all thoſe <hi>that truly repent and un<g ref="char:EOLhyphen"/>feignedly believe the holy Goſpel, the Abſolution of their ſins;</hi> and no doubt, ſuppoſing our Confeſſion to
+<pb n="47" facs="tcp:35016:34"/>have been ſincere and hearty, the Miniſter has good reaſon to declare our Sins are abſolved, upon theſe two Evangelical conditions of <hi>Faith</hi> and <hi>Repentance.</hi> But to the end no ſcruple may be left in this matter, be pleas'd to obſerve, that the Mini<g ref="char:EOLhyphen"/>ſter doth not here Abſolve in his own name, but publiſheth a Pardon <hi>in Nomine Domini,</hi> in the Name and Authority of the Lord God. He doth not ſay <hi>I,</hi> but <hi>He pardon<g ref="char:EOLhyphen"/>eth,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>This Form of Abſolution, as being onely declaratory, may paſs well enough: for, as I underſtand it now, the Miniſter onely declares that Pardon may be had, and on what terms. All this may be born with, and therefore you may go on.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>The Lord's-prayer follows next; and that, if I be not greatly miſtaken, very properly: Firſt, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="48" facs="tcp:35016:35"/>having hitherto prepared our ſelves by <hi>Confeſſion</hi> and <hi>Abſolution,</hi> we may now more freely take the boldneſs to call God our Father, and addreſs our ſelves to him in that perfect Form of Prayer which his Beloved Son has taught us. Se<g ref="char:EOLhyphen"/>condly, the Lord's-prayer being the ground-work and foundation, on which all our Prayers and Petitions ſhould be built, we can never do better, than to begin our Prayers with this, which was compoſed by the onely begotten Son of God, and indited by Wiſdom it ſelf, to be a pattern and model to all our Devo<g ref="char:EOLhyphen"/>tions.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But you cannot ſay that you make uſe of the Lord's-prayer in the firſt place, and before your other Petitions, ſince you have al<g ref="char:EOLhyphen"/>ready uſed ſeveral before it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Whatſoever has been hither<g ref="char:EOLhyphen"/>to performed either by Miniſter or
+<pb n="49" facs="tcp:35016:35"/>People, is rather a Preparation for Prayer, than Prayer it ſelf: for if you—</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>You need ſay no more; for indeed it is no great matter whe<g ref="char:EOLhyphen"/>ther you uſe it firſt or laſt: the Queſtion onely is, whether it ought to be us'd at all? I own it to be a matter of great moment, which therefore ought not to be raſhly determin'd; though, for my part, I am more inclinable to take it as a directory for the matter of our Pray<g ref="char:EOLhyphen"/>er, than for a Form; and the rather, becauſe one of the Evangeliſts ſeems to intimate as much, by uſhering in the Lord's-prayer with theſe words of our Saviour, <hi>After this manner, therefore pray ye,</hi> Luke 6. v. 9.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I fear your Miniſter is not ſo cautious as you are in this mat<g ref="char:EOLhyphen"/>ter; for in ſome of his Sermons he hath, if not raſhly, at leaſt very po<g ref="char:EOLhyphen"/>ſitively aſſerted, that the Lord's-prayer
+<pb n="50" facs="tcp:35016:36"/>is not to be uſed as a Form of Prayer, but onely as a Directi<g ref="char:EOLhyphen"/>on; and conſequently takes great care not to make uſe of it in his Meeting; though, as I have been informed from very credible hands, he uſeth it in his Family-prayers; but how to reconcile <hi>P</hi> with <hi>B</hi> in this caſe; <hi>P,</hi> when he is in his Mee<g ref="char:EOLhyphen"/>ting, and <hi>B</hi> when he is at home, I leave to your conſideration; I onely wiſh there be not ſome worldly in<g ref="char:EOLhyphen"/>tereſt at the bottom that ſways him. And as for what you alledge, that one of the Evangeliſts ſaith, <hi>after this manner,</hi> &amp;c. I anſwer, that theſe words do not forbid or oppoſe the uſing of it as a Form, or the repea<g ref="char:EOLhyphen"/>ting of it in the ſelf-ſame words; for he that repeats the ſame words, ſaith after this manner, though eve<g ref="char:EOLhyphen"/>ry one that ſaith after this manner, do not always repeat the ſame words. So that he who ſaith the very words
+<pb n="51" facs="tcp:35016:36"/>themſelves, hath two Evangeliſts to warrant and juſtifie him; whereas he that does not, hath but one. I ſhall onely add, that the Lord's-prayer, is uſed by the Church of Chriſt all the World over; and it cannot but be very comfortable and beneficial to us to bear a part in this great and Univerſal Conſort.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But ſuppoſe I ſhould grant you, that the Lord's-prayer may be us'd in the Morning; yet you can<g ref="char:EOLhyphen"/>not but allow me, that it ought not to be us'd at Night, becauſe it is ri<g ref="char:EOLhyphen"/>diculous to beg our daily Bread of God, when we have eaten our Sup<g ref="char:EOLhyphen"/>per, and are ready to go to bed.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Though this Objection be too light and frothy, and not at all comporting with the Sacredneſs of the things we are treating of; yet ſhall not this hinder me from an<g ref="char:EOLhyphen"/>ſwering it ſeriouſly; and the rather, becauſe I am pretty well aſſur'd you
+<pb n="52" facs="tcp:35016:37"/>have borrow'd it from one of your Neighbouring Miniſters, who not long ſince Preaching in this Town, produc'd it as a moſt convincing and unanſwerable Argument, to prove, that the Lord's-prayer was not to be uſed as a Form: but cer<g ref="char:EOLhyphen"/>tainly this Gentleman ſhewed here<g ref="char:EOLhyphen"/>by, that he was no great Textuary, ſince any Woman, except perhaps his own Mother, (who, I am told, has been the onely Tutor he ever had) could have taught him, that by <hi>Bread</hi> in this place, as in many other Texts of Scripture, we are not onely to underſtand <hi>Meat</hi> and <hi>Drink,</hi> but alſo <hi>Repoſe</hi> and <hi>Sleep, Clothes</hi> and <hi>Shelter, Health</hi> and <hi>Wealth,</hi> and, in a word, whatſoever is neceſſary to ſupport and ſupply our frail natures. To this I might add, that the word we render <hi>Dai<g ref="char:EOLhyphen"/>ly,</hi> according to its moſt proper and exact ſignification, do's not denote
+<pb n="53" facs="tcp:35016:37"/>the preſent time, but that to come; ſo that when we pray, <hi>Give us this day our daily bread,</hi> 'tis as much as if we ſhould ſay, Vouchſafe us all thoſe things that are neceſſary and ſufficient for the ſupport of the re<g ref="char:EOLhyphen"/>maining part of our lives: and this we pray that we may receive <hi>this day,</hi> that is, as St. <hi>Luke</hi> interprets it, <hi>Day by day.</hi> Laſtly, I might al<g ref="char:EOLhyphen"/>ſo here take notice, that by <hi>Bread,</hi> we are not onely to underſtand our Bodily ſuſtenance, but alſo the food of our Souls.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Theſe Obſervations of yours I muſt confeſs are new things to me, and more than ever I heard before. But I deſire you to proceed.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>After the <hi>Lord's Prayer</hi> fol<g ref="char:EOLhyphen"/>low ſome ſhort and proper Ejacula<g ref="char:EOLhyphen"/>tions, for the Divine Aſſiſtance in the work we are about; and in which the People bear a part, the Mini<g ref="char:EOLhyphen"/>ſter praying in the words of holy
+<pb n="54" facs="tcp:35016:38"/>
+                  <hi>David, O Lord, open thou our lips;</hi> and the People anſwering, <hi>And our mouth ſhall ſhew forth thy praiſe.</hi> The Miniſter again, <hi>O Lord, make ſpeed to ſave us;</hi> and the People, <hi>O Lord, make haſte to help us.</hi> Nei<g ref="char:EOLhyphen"/>ther can you, I ſuppoſe, find fault with this Order of the Church, in aſſigning this place to theſe holy Breathings, or ejaculatory Deſires, <hi>viz.</hi> before the <hi>Pſalms, Leſſons</hi> and <hi>Collects,</hi> and immediately after the <hi>Confeſſion</hi> and <hi>Abſolution;</hi> thereby intimating that our Sins have ſhut our Mouths and cloſed our Lips; putting us into an utter incapacity of praiſing his moſt holy Name, and expreſſing our bounden thankfulneſs, till he himſelf be pleaſed to open our Mouths and Lips to utter his glory. Again, when we caſt an eye upon the Sacredneſs of thoſe Duties we are about, and the great oppoſi<g ref="char:EOLhyphen"/>tion we may expect from the Devil
+<pb n="55" facs="tcp:35016:38"/>and our evil Hearts, in the perfor<g ref="char:EOLhyphen"/>mance of them, we have all the reaſon in the World to cry migh<g ref="char:EOLhyphen"/>tily to God, <hi>to make haſte to ſave us and deliver us;</hi> to the end that by his Divine aſſiſtance we may be enabled worthily to celebrate his praiſe, and acceptably perform the great Work we are engaged in.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Theſe ſhort Sentences you ſo much commend, foraſmuch as they are all taken out of Scripture, are well enough in themſelves: but I can no ways approve this chop<g ref="char:EOLhyphen"/>ping and mincing of Prayers be<g ref="char:EOLhyphen"/>tween the Miniſter and the People, for this makes <hi>them to be liker Charms than Chriſtian Prayers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Well, you are a wonderfull Chriſtian, if I may judge of you by your Charitable and Evangelical ex<g ref="char:EOLhyphen"/>preſſions: for, if from the abundance of the heart the mouth ſpeaketh, I
+<pb n="56" facs="tcp:35016:39"/>find you have as good an opinion of our Church as your Miniſter hath.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray, what is that you have to ſay againſt our Miniſter?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Nothing at all, for indeed I am aſham'd for his ſake to mention it.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Speak out man, I know what you would be at; is it not this, that our Miniſter hath ſaid the ſame, <hi>viz.</hi> that your <hi>Prayers are liker Charms than Chriſtian prayers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I will not be poſitive that he uſed the ſelf-ſame expreſſions: but this I dare affirm, that he uſed ſome as bad, if not worſe, and which have a great affinity with theſe words of yours.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray, Sir, tell me plainly, what it was he ſaid?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Since you will needs have it, I ſhall tell you, that he was ſo kind and charitable as to imply in one of his Sermons, that <hi>our Cathe<g ref="char:EOLhyphen"/>dral
+<pb n="57" facs="tcp:35016:39"/>was the Devil's Chapel.</hi> Theſe are his words, <hi>God has no Church, but the Devil has a Chapel; I had al<g ref="char:EOLhyphen"/>moſt ſaid, a Cathedral.</hi> A ſublime and worthy Sentence, full of Chri<g ref="char:EOLhyphen"/>ſtian Love and Charity, and well be<g ref="char:EOLhyphen"/>coming ſuch a Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel. And if we join your Aphoriſm to his, we may challenge the World to ſhew us any thing like it; for ſo it will make out this favourable Judgment of our Church, <hi>God has no Church, but the Devil has a Cha<g ref="char:EOLhyphen"/>pel; I had almoſt ſaid, a Cathedral; and the Prayers that are uſed there, are liker Charms, than Chriſtian pray<g ref="char:EOLhyphen"/>ers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I don't matter what you ſay or judge of me, but your ha<g ref="char:EOLhyphen"/>ving ſuch frequent flings at our Mi<g ref="char:EOLhyphen"/>niſter gives me great reaſon to ſu<g ref="char:EOLhyphen"/>ſpect, you have a grudge or ſecret hatred againſt him.</p>
+            </sp>
+            <pb n="58" facs="tcp:35016:40"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I can aſſure you 'tis far from that; for I am ſo free from bearing any ill-will towards him, that I can ſafely deſire all the harm I wiſh him may fall upon my ſelf: and I ſincerely proteſt, that the one<g ref="char:EOLhyphen"/>ly motive which makes me reſlect upon ſome of his abuſive expreſſions is, the love I have for that Church which he is ſo eagerly bent to ex<g ref="char:EOLhyphen"/>poſe and vilifie; and indeed who could ſee his Mother ſo groſly abu<g ref="char:EOLhyphen"/>ſed, without being mov'd at it.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Seeing you are ſo nice and ſqueamiſh, I ſhall henceforth avoid any expreſſions that may offend or give you an occaſion to reflect upon our Miniſter or my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I could wiſh it were in your power to uſe that moderation, though in doing it, you would doe no more than what I have already ſeveral times begged of you; and had you but comply'd with my
+<pb n="59" facs="tcp:35016:40"/>reiterated deſires, you would have ſpar'd me the trouble of repreſen<g ref="char:EOLhyphen"/>ting to you the Sarcaſtical Language your Miniſter has very often and very unreaſonably made uſe of a<g ref="char:EOLhyphen"/>gainſt us.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>In kindneſs to you I ſhall propound my Objection in other terms. I ſay therefore, that I can<g ref="char:EOLhyphen"/>not approve, that the People ſhould anſwer the Miniſter, and by turns repeat ſome part of the publick Pray<g ref="char:EOLhyphen"/>ers; for though I know it was al<g ref="char:EOLhyphen"/>lowed amongſt the <hi>Jews</hi> to ſing by turns, anſwering one another, yet I cannot find that the ſame order was ever approv'd of among Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>After thanks returned for your kindneſs to me, I muſt tell you that your Objection is ſo far from making for you, that it makes againſt you. For as I perceive, you are not well acquainted with the or<g ref="char:EOLhyphen"/>der
+<pb n="60" facs="tcp:35016:41"/>the <hi>Jews</hi> obſerved in their pub<g ref="char:EOLhyphen"/>lick Worſhip, becauſe if ſo, you would never have produc'd this Ar<g ref="char:EOLhyphen"/>gument to condemn the practice of our Church. True it is, that it was the cuſtome of the <hi>Jews</hi> to ſing by turns, and anſwer one another; but you never obſerved that this was a privilege granted to the Prieſts and Levites onely: now this Argument of yours plainly juſtifies the order of our Church; for if the Prieſts and Levites under the Old Law had the Prerogative of bearing a part in offering up the publick Prayers and Praiſes, none can deny, but that Chriſtians, both Miniſters and Peo<g ref="char:EOLhyphen"/>ple, have the ſame, if not a greater, privilege; foraſmuch as every true Chriſtian is a Prieſt, and that of a higher order than thoſe under the Old Law; for if we will believe St. <hi>Peter,</hi> 1 Ep. chap. 2. verſ. 9. <hi>We are a choſen Generation, a royal Prieſt<g ref="char:EOLhyphen"/>hood:</hi>
+                  <pb n="61" facs="tcp:35016:41"/>and <hi>John,</hi> Revel. 1.6. declares that, <hi>Jeſus Chriſt has made us Kings and Prieſts unto God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I perceive then you take it to be a great honour or privilege for Chriſtians to have leave to anſwer their Miniſters, and to have a ſhare with them in repeating the publick Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I do ſo; and have great rea<g ref="char:EOLhyphen"/>ſon for it too.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I know well that you Church-men, both Miniſters and People, are very ambitious of ho<g ref="char:EOLhyphen"/>nour; but this is not the thing we muſt look for, eſpecially in our Pray<g ref="char:EOLhyphen"/>ers, but rather edification and bene<g ref="char:EOLhyphen"/>fit; now what benefit can you pro<g ref="char:EOLhyphen"/>pound to your ſelf from this anſwe<g ref="char:EOLhyphen"/>ring of your Miniſter, and pronoun<g ref="char:EOLhyphen"/>cing ſome part of the publick Pray<g ref="char:EOLhyphen"/>ers?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>The benefit which thereby accrews to us is very conſiderable;
+<pb n="62" facs="tcp:35016:42"/>for by this means we do not onely expreſs our full conſent to all the Miniſter's Prayers, without which we cannot reaſonably expect any ad<g ref="char:EOLhyphen"/>vantage from them: but beſides, by this method of our Church we cap<g ref="char:EOLhyphen"/>tivate the Peoples attention, reſtrain their vain and rambling thoughts, and oblige them to be attentive to what the Miniſter ſaith, that they may be ready to return the proper Reſponſals. Whereas when the Peo<g ref="char:EOLhyphen"/>ple bear no ſhare in the Divine Ser<g ref="char:EOLhyphen"/>vice, and have no part to act in it, they are more at leiſure to entertain vain and frivolous fancies, and too too often profane and laſcivious thoughts come in flocks to devour their Sacrifice: and to tell you my mind plainly, I take it, that the neglect of theſe Reſponſals, is the true cauſe of ſo much inadvertency, lazy poſtures and drowzineſs, as now commonly diſcover themſelves
+<pb n="63" facs="tcp:35016:42"/>in thoſe who frequent the Houſe of God, and appear in his preſence, whom the holy Angels adore with veiled faces; which as it is a diſho<g ref="char:EOLhyphen"/>nour to God and a diſcouragement to the Miniſter, ſo it is of great pre<g ref="char:EOLhyphen"/>judice to their own Souls. Now to put the queſtion to your ſelf, you cannot deny me, but that way of Praying which moſt engageth our attention, is the beſt, and therefore ought to be preferred before any o<g ref="char:EOLhyphen"/>ther; and it is evident beyond diſ<g ref="char:EOLhyphen"/>pute, that that way of Praying, where the People bear a part and anſwer in their courſe, is the moſt proper to make them attentive and heedfull to the Work they are about; and therefore I leave you to judge, how commendable the Practice of our Church is, in this regard.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>We ſhall by and by have a further opportunity of ſpeaking to this particular; wherefore you may now proceed if you pleaſe.</p>
+            </sp>
+            <pb n="64" facs="tcp:35016:43"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>After the ſhort Prayers and Reſponſals now mentioned, follows the Doxology; <hi>Glory be to the Father, and to the Son,</hi> &amp;c. which is both a ſound Form of praiſing and glorify<g ref="char:EOLhyphen"/>ing the eternal and tri-une God, Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt; and a ſhort Creed or Confeſſion of our Faith, concerning the Trinity in Unity. And if you demand of me, why it is placed here in the cloſe of the Pe<g ref="char:EOLhyphen"/>nitential part of our Prayers? I an<g ref="char:EOLhyphen"/>ſwer, Becauſe having before confeſ<g ref="char:EOLhyphen"/>ſed our Sins, and humbly entreated mercy and remiſſion for them; and being now in full hope that our mercifull Father has graciouſly heard and granted our requeſts, we imme<g ref="char:EOLhyphen"/>diately change our Prayers into Praiſes, and our Supplications into Thankſgivings, and with tranſports of Joy and Gratitude we ſound forth our <hi>Glory be to the Father,</hi> for it is he who pardons our Sins; <hi>and to the
+<pb n="65" facs="tcp:35016:43"/>Son,</hi> becauſe 'tis for his ſake they are pardoned; <hi>and to the Holy Ghoſt,</hi> who alone aſſures us thereof. And the Miniſter afterwards, as if this were not enough, (becauſe in the <hi>Gloria Patri</hi> we more particu<g ref="char:EOLhyphen"/>larly worſhip the Trinity in Unity, and not the Unity in Trinity,) calls upon the People again to adore the Unity, ſaying, <hi>Praiſe ye the Lord;</hi> to which the People anſwer, <hi>The Lord's Name be praiſed;</hi> which words con<g ref="char:EOLhyphen"/>tain the Chriſtian Hallelujahs or Songs of praiſe and triumph, for the abſolution and remiſſion of their Sins: or elſe, if you will, you may take them for a Preface or En<g ref="char:EOLhyphen"/>trance to the Reading of the Pſalms.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>You may take them for what you pleaſe; as for my part, I don't concern my ſelf about them, and therefore you may go on.</p>
+            </sp>
+            <pb n="66" facs="tcp:35016:44"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>In the Morning Service the Pſalms are uſhered in with the <hi>Ve<g ref="char:EOLhyphen"/>nite, O come let us ſing unto the Lord,</hi> &amp;c. as being an Exhortato<g ref="char:EOLhyphen"/>ry Pſalm, whereby we continue mutually to invite and encourage each other worthily to adore and worſhip the Eternal God. And that this Pſalm is very well placed here, appears, firſt, Becauſe by it we are informed what we are to doe; and, ſecondly, how we ought to behave our ſelves in the performance of the ſucceeding Offices or Du<g ref="char:EOLhyphen"/>ties. The former of theſe, <hi>viz.</hi> what we are to doe, we have in theſe words; <hi>Sing unto the Lord; Come before his preſence; Serve and wor<g ref="char:EOLhyphen"/>ſhip him;</hi> and, laſtly, <hi>Hear his Voice,</hi> or, his moſt Holy Word. The latter, How we are to perform theſe Du<g ref="char:EOLhyphen"/>ties, is thus expreſs'd, We are to <hi>ſing unto the Lord, heartily rejoicing
+<pb n="67" facs="tcp:35016:44"/>in the ſtrength of our ſalvation;</hi> to <hi>come before his preſence with thankſ<g ref="char:EOLhyphen"/>giving,</hi> with a gratefull ſenſe and humble acknowledgment of all his Benefits; ſerve and worſhip him with all becoming Reverence and Veneration; <hi>falling down on our fa<g ref="char:EOLhyphen"/>ces, and kneeling before the Lord our Maker;</hi> not <hi>hardning our hearts when we hear his voice,</hi> but recei<g ref="char:EOLhyphen"/>ving it with Faith and Obedience. And thus we proceed to the <hi>Pſalms</hi> appointed for the day, the Church having ordered them to be read o<g ref="char:EOLhyphen"/>ver once every Month.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray tell me the reaſon why they are appointed to be read oftner than any other part of Holy Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Becauſe they are moſt ac<g ref="char:EOLhyphen"/>commodated for Prayer and Devo<g ref="char:EOLhyphen"/>tion, and conſequently of a more
+<pb n="68" facs="tcp:35016:45"/>continual uſe than any other part of God's Word. The ignorant will find here profitable inſtruction and infor<g ref="char:EOLhyphen"/>mation; the wicked earneſt exhor<g ref="char:EOLhyphen"/>tations and ſevere warnings; the poor and afflicted will meet with ſu-table Prayers and Petitions to beg the good things they want, as well as to deprecate the evils they groan under; and the rich and proſperous will be furniſh'd with Thankſgivings and joyfull Songs of Praiſe. Indeed the whole contexture of them ſhews them to be fitted and ſuited to all perſons in all circumſtances, whe<g ref="char:EOLhyphen"/>ther young or old, Kings or Subjects, Nobles or Commons, in proſperity or adverſity, in a wealthy and com<g ref="char:EOLhyphen"/>fortable, or in a pinching and afflic<g ref="char:EOLhyphen"/>ted condition; and they are propor<g ref="char:EOLhyphen"/>tioned with that exactneſs to theſe ſeveral circumſtances, as if they had been made on purpoſe to expreſs and repreſent every one's particular ſtate and condition.</p>
+            </sp>
+            <pb n="69" facs="tcp:35016:45"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I muſt own there is ſome<g ref="char:EOLhyphen"/>what of truth in what you have ſaid concerning the <hi>Pſalms;</hi> but one thing I find that ſpoils all, which is your ſilly way of reading them by turns, the Miniſter reading one Verſe, and the People anſwering another; which certainly is a con<g ref="char:EOLhyphen"/>ſus'd, if not a ſcandalous way of praiſing God.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>What you are pleas'd to call confus'd and ſcandalous, is in my opinion very <hi>edifying</hi> and <hi>hea<g ref="char:EOLhyphen"/>venly;</hi> and my opinion is grounded upon Reaſon; for this way of rea<g ref="char:EOLhyphen"/>ding or ſinging <hi>Pſalms</hi> by turns, as hath been partly already hinted, is extremely well ſuited to excite, each others Affections, and to encreaſe our Emulation, making us, as it were, to ſtrive to outvie each other in Zeal and Devotion, and to contend who
+<pb n="70" facs="tcp:35016:46"/>ſhall worſhip and praiſe God with moſt earneſtneſs and fervency. Now this holy Emulation cannot but be very <hi>profitable and edifying;</hi> yea, and Heavenly too, becauſe it comes neareſt to the Pattern of Heavenly and Angelical Adoration; for thus we reade that the Seraphims cry to each other by turns, <hi>Holy, holy, ho<g ref="char:EOLhyphen"/>ly, Lord God of Hoſts,</hi> &amp;c. <hi>Iſai.</hi> 6.3.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Well, but I have another Objection againſt your way of rea<g ref="char:EOLhyphen"/>ding the <hi>Pſalms;</hi> and that is, that at the end of every one of them you repeat the <hi>Gloria Patri, Glory be to the Father, and to the Son,</hi> &amp;c. which certainly is a very vain repetition.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am not of your opinion; for if you obſerve this Doxology is not applied twice to the ſame ſub<g ref="char:EOLhyphen"/>ject; for though we repeat it con<g ref="char:EOLhyphen"/>ſtantly at the cloſing of every <hi>Pſalm,</hi>
+                  <pb n="71" facs="tcp:35016:46"/>yet, becauſe they moſt commonly differ and vary in their ſubjects, for you will hardly find two <hi>Pſalms</hi> to<g ref="char:EOLhyphen"/>gether of the ſame Argument; ſome being <hi>Pſalms</hi> of <hi>Doctrine and Inſtruc<g ref="char:EOLhyphen"/>tion,</hi> ſome of <hi>Confeſſion of Sins,</hi> ſome of <hi>Profeſſion of Faith,</hi> ſome of <hi>Sup<g ref="char:EOLhyphen"/>plication and Prayer,</hi> ſome of <hi>Prai<g ref="char:EOLhyphen"/>ſes and Thankſgiving.</hi> And foraſ<g ref="char:EOLhyphen"/>much as every one of theſe Argu<g ref="char:EOLhyphen"/>ments contain ſufficient and power<g ref="char:EOLhyphen"/>full motives to ſtir up our Hearts and Affections to bleſs and glorifie God, therefore the cloſing of every <hi>Pſalm</hi> with this Doxology, <hi>Glory be to the Father,</hi> &amp;c. cannot be judged vain and improper, but rather very proper and edifying.</p>
+               <p>After the reading or ſinging of the <hi>Pſalms,</hi> we proceed to reade the <hi>Leſſons,</hi> the one out of the Old Te<g ref="char:EOLhyphen"/>ſtament, and the other out of the New; which order affords this great conveniency, amongſt ſeveral others,
+<pb n="72" facs="tcp:35016:47"/>that by this means the Old Teſta<g ref="char:EOLhyphen"/>ment is read over once, and the New Teſtament thrice, every Year.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>This is a great miſtake of yours, whether wilfull or no, I ſhall not enquire, for the Book of <hi>Chro<g ref="char:EOLhyphen"/>nicles</hi> is never read, as well as many particular Chapters of ſome other Books.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I confeſs the Books of <hi>Chro<g ref="char:EOLhyphen"/>nicles</hi> are not read, but the reaſon of it is plain and evident, becauſe for the moſt part they are but a repeti<g ref="char:EOLhyphen"/>tion of the Books of <hi>Kings,</hi> which are read in their courſe: and if any Chapters of other Books be omitted, 'tis either becauſe they contain little elſe but a repetition of what is gone before, or becauſe they treat of the Genealogies, Ceremonies and Laws of the <hi>Jews,</hi> which chiefly concern'd them, as being now antiquated and
+<pb n="73" facs="tcp:35016:47"/>of little uſe under the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray why do you reade the <hi>Apocryphal</hi> Books then, which cer<g ref="char:EOLhyphen"/>tainly are of as little uſe and con<g ref="char:EOLhyphen"/>cern as thoſe Books and Chapters you omit in the courſe of your <hi>Leſ<g ref="char:EOLhyphen"/>ſons?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I don't think ſo, for though they be not Canonical, they are ſuch as may be read with Profit and Edi<g ref="char:EOLhyphen"/>fication, in that they contain many true and pious Hiſtories or Relati<g ref="char:EOLhyphen"/>ons of the Lives and Actions of ſeve<g ref="char:EOLhyphen"/>ral great and excellent Perſons, whoſe worthy and glorious Examples are very proper to affect our Hearts, and raiſe up in us an ardent Deſire and holy Emulation to imitate their tranſcendent Virtues, to expreſs their untainted Innocence, and copy their unſhaken Conſtancy, Courage and Magnanimity. Moreover we find
+<pb n="74" facs="tcp:35016:48"/>there moſt exquiſite Precepts of Mo<g ref="char:EOLhyphen"/>rality, directing and informing of us in the Practice of all vertuous Actions, teaching us how to order our Lives, Manners and Converſati<g ref="char:EOLhyphen"/>on, and recommending to us the lovelineſs and excellence of Vertue, as well as repreſenting the deformi<g ref="char:EOLhyphen"/>ty and miſery of Vice and Wicked<g ref="char:EOLhyphen"/>neſs.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But, if I be not miſtaken, you do not reade the firſt and ſe<g ref="char:EOLhyphen"/>cond Leſſon immediately one after another.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>True, for after the firſt Morning Leſſon we ſay or ſing the <hi>Te Deum, We praiſe thee, O God,</hi> &amp;c. or the <hi>Benedicite; O all ye works of the Lord, Bleſs ye the Lord,</hi> &amp;c. both of which are the moſt excel<g ref="char:EOLhyphen"/>lent and heavenly Hymns that ever were fram'd by Men; each of them
+<pb n="75" facs="tcp:35016:48"/>being a moſt complete Form of Thankſgiving, Praiſe and Adorati<g ref="char:EOLhyphen"/>on. After the ſecond Morning Leſ<g ref="char:EOLhyphen"/>ſon we repeat the Song of <hi>Zachari<g ref="char:EOLhyphen"/>as,</hi> or elſe the 100 <hi>Pſalm,</hi> both of which are not onely Divine and un<g ref="char:EOLhyphen"/>queſtionable, but alſo extremely pro<g ref="char:EOLhyphen"/>per to inflame our Hearts with Love and Gratitude to God, for all his un<g ref="char:EOLhyphen"/>utterable Goodneſs beſtowed upon us. In the Evening Service, after the firſt Leſſon, the Church appoints the Song of the Bleſſed Virgin, or the 98 <hi>Pſalm;</hi> and after the ſecond Leſſon the 67 <hi>Pſalm,</hi> or the Song of old <hi>Simeon;</hi> all which for the Rea<g ref="char:EOLhyphen"/>ſons juſt now mentioned, cannot but be acceptable to God, and edi<g ref="char:EOLhyphen"/>fying to thoſe that attend his Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But what probable reaſon can you give for inſerting and inter<g ref="char:EOLhyphen"/>mixing theſe Songs of Praiſe with your Leſſons?</p>
+            </sp>
+            <pb n="76" facs="tcp:35016:49"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>The Church has appointed the Repetition of theſe Sacred and Seraphick Hymns, to be us'd as a ſolemn Form of Thankſgiving, for thoſe unſpeakable Mercies, and hea<g ref="char:EOLhyphen"/>venly Bleſſings and good things, re<g ref="char:EOLhyphen"/>vealed and promiſed to us in his Word, newly read to us; and it is but fitting and ſeemly, that after we have heard God graciouſly ſpea<g ref="char:EOLhyphen"/>king to us, we ſhould in gratitude eccho forth our Praiſes and Thanks to him; and this we do in the Hymns now mentioned.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Some of theſe Hymns, I think, might be allow'd; but there be two thruſt in amongſt them, which ſeem to me very improper; and that is the Song of the Virgin <hi>Mary,</hi> for bearing Chriſt in her Womb; and that of Old <hi>Simeon,</hi> for ſeeing Jeſus Chriſt in the Fleſh, and
+<pb n="77" facs="tcp:35016:49"/>holding him in his Arms: Now ſince theſe are extraordinary Caſes, which reach none of us; therefore I conclude the uſe of them ſome<g ref="char:EOLhyphen"/>what ſtrange and extravagant.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>To begin with your firſt Objection: I readily own that we have not the ſame occaſion to uſe this Hymn, as the Bleſſed Virgin had; for God the Word his taking Fleſh in her Womb, was a privi<g ref="char:EOLhyphen"/>ledge peculiar to her alone: Yet pray conſider, that when we in all humility, with Obedience and Faith, receive the Word of God read to us; or as St. <hi>Luke</hi> phraſeth it, <hi>Chap.</hi> 11.28. <hi>When we hear the Word of God, and keep it,</hi> we do conceive Chriſt by Faith; for according to St. <hi>Paul</hi>'s doctrine, <hi>Gal.</hi> 4.19. 'tis by hearing and keeping the Word of God that <hi>Chriſt is formed in us;</hi> not Carnally, but Spiritually: Wherefore we are
+<pb n="78" facs="tcp:35016:50"/>as much obliged, after a due hear<g ref="char:EOLhyphen"/>ing of God's Word, to break forth into a holy <hi>Magnificat, My Soul doth magnifie the Lord,</hi> becauſe Chriſt is formed in us ſpiritually, as the Bleſ<g ref="char:EOLhyphen"/>ſed Virgin was, becauſe Chriſt was formed in her according to the Fleſh.</p>
+               <p>And as to your ſecond Objection, I might tell you, that this Hymn of Old <hi>Simeon</hi> is frequently us'd in our <hi>French</hi> Proteſtant Churches, as being commonly ſung every Lord's-day: but if this Authority do not ſatisfie you, I ſhall give you a rea<g ref="char:EOLhyphen"/>ſon why the Church of <hi>England,</hi> af<g ref="char:EOLhyphen"/>ter the reading of the ſecond Leſſon at Evening-prayer, orders the re<g ref="char:EOLhyphen"/>hearſing the Song of this Bleſſed Man; for though indeed in the rea<g ref="char:EOLhyphen"/>ding of the New Teſtament we do not behold Chriſt with our bodily Eyes, as <hi>Simeon</hi> did, yet may we with the ſpiritual Eyes of our Faith
+<pb n="79" facs="tcp:35016:50"/>ſee that <hi>Salvation</hi> he then ſaw; and that more clearly, becauſe it is now more fully manifeſted: and there<g ref="char:EOLhyphen"/>fore upon this account we have the ſame reaſon to ſay with him; <hi>Lord, now letteſt thou thy ſervant to depart in peace, for mine Eyes have ſeen thy Salvation,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I perceive you have a pe<g ref="char:EOLhyphen"/>culiar way of applying the Scrip<g ref="char:EOLhyphen"/>tures to your ſelves: But let us exa<g ref="char:EOLhyphen"/>mine what is next.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>The next thing that fol<g ref="char:EOLhyphen"/>lows is, the Confeſſion of our Faith, commonly called the Apoſtle's Creed.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But, I ſuppoſe, you do not believe the Apoſtles made it?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Though ſtrong and con<g ref="char:EOLhyphen"/>vincing Arguments might be alledg<g ref="char:EOLhyphen"/>ed to prove them the Inditers or
+<pb n="80" facs="tcp:35016:51"/>Compoſers of it; yet I am reſolved, at preſent, not to differ with you a<g ref="char:EOLhyphen"/>bout it; and the rather, becauſe I am ſure you will agree with me; that as long as it comprehends no<g ref="char:EOLhyphen"/>thing but what the Apoſtles have taught us to believe, and believed themſelves, it may very well, of juſt right, be called the Apoſtle's Creed.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But what particular reaſon hath your Church to place it after the Leſſons?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Becauſe having heard ſome Chapters out of the Word of God read to us; it is but fit that we now make a publick profeſſion of our Belief of the main and ſundamental Truths there<g ref="char:EOLhyphen"/>in contained; which cannot be bet<g ref="char:EOLhyphen"/>ter done, than by repeating the Ar<g ref="char:EOLhyphen"/>ticles of the Apoſtle's Creed; which is not onely a Compendium of the Goſpel, but of all Holy Writ.</p>
+            </sp>
+            <pb n="81" facs="tcp:35016:51"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But why is it you repeat it ſo often, twice a day at leaſt, Morn<g ref="char:EOLhyphen"/>ing and Evening?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Truly it can never be re<g ref="char:EOLhyphen"/>peated too often; and I am ſure our <hi>French</hi> Proteſtants thought ſo, whoſe Example, if it ſhould not convince you, I hope the following Reaſons may; becauſe it ſerves to expreſs our <hi>Loyalty</hi> to God, and our <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> among our ſelves, and with the Ca<g ref="char:EOLhyphen"/>tholick Church; it is a Touch-ſtone to diſcover, whether we continue in the number of Chriſt's Diſciples, and in Unity and Concord with one a<g ref="char:EOLhyphen"/>nother; it is our Watch-word, our Badge, Mark and Character, where<g ref="char:EOLhyphen"/>by we may diſtinguiſh Frends from Foes, true Believers from Infidels and Hereticks; and therefore, as was ſaid before, it cannot be too often re<g ref="char:EOLhyphen"/>peated. But before we proceed fur<g ref="char:EOLhyphen"/>ther,
+<pb n="82" facs="tcp:35016:52"/>we may here take notice, that upon certain Feſtival-days the <hi>Atha<g ref="char:EOLhyphen"/>naſian</hi> Creed is read, inſtead of that of the Apoſtle's.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Is there any thing more in the <hi>Athanaſian</hi> Creed, than in that of the Apoſtles's?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Onely this, that in the <hi>A<g ref="char:EOLhyphen"/>thanaſian</hi> Cree, the Myſteries of the moſt Bleſſed Trinity, and of the Incarnation of the Son of God, are more at large eſſerted, explained and unfolded, and that in the moſt ſound, plain and perſpicuous terms, thoſe ſublime an incomprehenſible My<g ref="char:EOLhyphen"/>ſteries are capable of. After which, we proceed to this devour, hearty and mutual Salutation of the Mini<g ref="char:EOLhyphen"/>ſter and the People; the Miniſter ſaying, <hi>The Lord be with you;</hi> and the People anſwering, <hi>And with thy Spirit.</hi>
+               </p>
+            </sp>
+            <pb n="83" facs="tcp:35016:52"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>For my part, I cannot ap<g ref="char:EOLhyphen"/>prove of the Miniſter and People thus ſaluting one another, becauſe it looks too much like Compliment; which though perhaps it may agree very well with your <hi>French</hi> humour, yet is not at all agreeable to mine.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If you'll quarrel at this, you muſt quarrel with the Word of God, and with the language of the Holy Ghoſt in Scripture; for moſt certain it is, that this Salutation is taken thence, <hi>viz.</hi> what the Miniſter ſaith out of the Book of <hi>Ruth</hi> 2.4. and uſed by St. <hi>Paul,</hi> 2 <hi>Theſſ.</hi> 3.16. and what the People anſwer out of the Epiſtle to the <hi>Galat.</hi> 6.18. Which words, whether conſider'd in them<g ref="char:EOLhyphen"/>ſelves, or with reſpect to the end they are deſign'd for, are of exceed<g ref="char:EOLhyphen"/>ing great and good uſe; for now we are entring upon a new part of
+<pb n="84" facs="tcp:35016:53"/>Divine Service, <hi>viz.</hi> that of Prayer; but ſeeing that wthout God's aid an aſſiſtance it is impoſſible, either for Miniſter or People to acquit themſelves rightly of this duty, which is of ſo great concern to the whole Congregation, Miniſter as well as People; wherefore they be<g ref="char:EOLhyphen"/>gin by praying each for other, hum<g ref="char:EOLhyphen"/>bly ſupplicating God to aſſiſt them in their preſent undertaking: the Miniſter beginning with this ſhort Prayer for the People, <hi>The Lord be with you;</hi> lifting up your Hearts, and raiſing your Devoitions, that my Prayers may not be in vain for you; and the People, in acknowledgment of the Miniſter's hearty good will, and as being themſelves extreamly concern'd in the work he is about, anſwer his Prayer, with this good wiſh, <hi>And with thy Spirit;</hi> to the end your Prayers may be ſo fer<g ref="char:EOLhyphen"/>vent, that you and we may reap
+<pb n="85" facs="tcp:35016:53"/>the fruit and benefit of thoſe Peti<g ref="char:EOLhyphen"/>tions you are now going to offer up to God for the whole Congrega<g ref="char:EOLhyphen"/>tion. And having thus both Mi<g ref="char:EOLhyphen"/>niſter and People, implored the Di<g ref="char:EOLhyphen"/>vine Preſence and Aſſiſtance in the great Work we are entring upon; we do next in a moſt humble and ſolemn manner addreſs our ſelves to each Perſon of the moſt Bleſſed Tri<g ref="char:EOLhyphen"/>nity to have Mercy upon us, <hi>viz.</hi> that our Sins and Tranſgreſſions may not hinder our Prayers and Petitions from being graciouſly re<g ref="char:EOLhyphen"/>ceived and accepted at the Trone of Grance; ſaying, <hi>Lord have mercy upon us. Chriſt have mercy upon us. Lord have mercy upon us.</hi> After which, we addreſs our ſelves to God, in that excellent Form of Prayer our Saviour hath taught us.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But me-thinks, forſmuch as you have uſed this Prayer alrea<g ref="char:EOLhyphen"/>dy,
+<pb n="86" facs="tcp:35016:54"/>that the reiterating of it, muſt needs be accounted a vain repetiti<g ref="char:EOLhyphen"/>on, condemned by our Saviour in <hi>Matth.</hi> 6.6.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>True it is, that our Church has appointed te Lord's-prayer to be uſed more than once in our Li<g ref="char:EOLhyphen"/>turgy, but that the reiterating of it, cannot come under the laſh of thoſe vain repetitions, forbid by our Savi<g ref="char:EOLhyphen"/>our, will appear, if you conſider, that wer repeat it onely in each di<g ref="char:EOLhyphen"/>ſtinct Service of the Church: be<g ref="char:EOLhyphen"/>fore we made uſe of it as a Confir<g ref="char:EOLhyphen"/>mation, and further aſſurance of the Abſolution of our Sins, and now we repeat it as the ground and founda<g ref="char:EOLhyphen"/>tion of our following Petitions. Be<g ref="char:EOLhyphen"/>ſides, the frequent repetition of it, ought not to be called vain, ſince (as hath been before obſerved) Chriſt himſelf prayes thrice, uſing the ſame words; and certainly the
+<pb n="87" facs="tcp:35016:54"/>beſt of Prayers cannot be uſed too often.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But I dare ſay, if ſo be the Proteſtants in <hi>France</hi> made uſe of the Lord's-prayer at all; yet they did not repeat it ſo often as you do.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I have taken notice before, that you are very ready to enter<g ref="char:EOLhyphen"/>tain falſe Notions concerning our <hi>French</hi> Proteſtants, and the ſame be<g ref="char:EOLhyphen"/>falls you in this particular; for cer<g ref="char:EOLhyphen"/>tain it is, that we always had ſo great a veneration for the Lord's-prayer, that we believ'd all our Prayers, whether publick or private, were deficient and imperfect with<g ref="char:EOLhyphen"/>out it; and therefore we did al<g ref="char:EOLhyphen"/>ways, both in the Church, and at home, conclude all our Prayers with the Lord's-prayer, adding moſt com<g ref="char:EOLhyphen"/>monly the Apoſtle's Creed, and concluding all with the Solemn Bleſſing.</p>
+            </sp>
+            <pb n="88" facs="tcp:35016:55"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But when your Miniſters uſed it in the Church, I ſuppoſe they did not repeat it often, as you do; but were content with ſaying of it once onely.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>You are ſtill miſtaken; for our Miniſters do repeat it moſt com<g ref="char:EOLhyphen"/>monly thrice, and ſometimes more, before they come down from the Pulpit; and according to the Diſci<g ref="char:EOLhyphen"/>pline or Canons of our Church, they are bound ſo to do.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>This, I confeſs, ſeems ſtrange to me. But let us proceed to what follows next, and that curſorily too, for I begin to be ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with ſpeaking ſo long to no purpoſe; for I find ready at hand to daſh my Ob<g ref="char:EOLhyphen"/>jections.</p>
+            </sp>
+            <pb n="89" facs="tcp:35016:55"/>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>That I may not tire you altogether, I ſhall diſpatch what re<g ref="char:EOLhyphen"/>mains in as few words as poſſible. The next part of the Liturgy that offers it ſelf, are ſome <hi>interlocutory Petitions,</hi> taken out of Holy Scrip<g ref="char:EOLhyphen"/>ture: both Miniſters and People in theſe ſhort and devout Ejaculations, ſtriving by turns, who ſhall moſt move God favourably to incline and hearken to their Petitions; and af<g ref="char:EOLhyphen"/>ter theſe, the whole Congregation do in a humble poſture, with uni<g ref="char:EOLhyphen"/>ted hearts and voices, ſupplicate our heavenly Father for his grace and favour, for his help and aid, for his ſafeguard and protection, for the acceptation of their Prayers, and his Divine Bleſſing, not onely for them<g ref="char:EOLhyphen"/>ſelves, but alſo for the King and Queen and Royal Family, for the Church, both Clergy and People, and laſtly, for all Mankind: and
+<pb n="90" facs="tcp:35016:56"/>this, in few words, is the deſign and contents of the following Collects. But I muſt not forget to obſerve to you, that upon <hi>Wedneſdays, Fridays</hi> and <hi>Sundays,</hi> we reade the Litany.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Pray waht is the uſe of this Litany? or what is it good for?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I muſt not, it ſeems, for fear of treſpaſſing upon your patience, enlarge my ſelf too much, in repre<g ref="char:EOLhyphen"/>ſenting to you the Excellency of this Prayers, and therefore ſhall tell you, as briefly as I can, the ſub<g ref="char:EOLhyphen"/>ſtance and import of it: there is no Vice nor Luſt, which therein, we do not pray to be deliver'd from; nor any Grace or Virtue, but we deſire God to beſtow it upon us; and, in a word, whatſoever is fit to be pray'd for or deprecated in pub<g ref="char:EOLhyphen"/>lick, is contained in this Prayer. Af<g ref="char:EOLhyphen"/>ter which follow ſome Prayers of
+<pb n="91" facs="tcp:35016:56"/>Thankſgivings, to be uſed upon par<g ref="char:EOLhyphen"/>ticular occaſions, being extreamly well ſuited to thoſe pious Ends they are intended for; as for Rain, Fair<g ref="char:EOLhyphen"/>weather, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But I am ſure there is more than this contain'd in your Com<g ref="char:EOLhyphen"/>mon-prayer, and therefore pray do not ſhut up your Book ſo ſoon.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>There is ſomething more behind, I confeſs; but becauſe I am loath to abuſe your patience, I hope you will think this general account to be ſufficient. What remains un<g ref="char:EOLhyphen"/>mentioned, are the <hi>Collects, Epiſtles</hi> and <hi>Goſpels;</hi> which you cannot but like, as to the matter, becauſe they we the Word of God: And as for their Order, it is admirable, as being to well ſuited to the particular Days they are appointed for, that by means of them, the Myſteries commemora<g ref="char:EOLhyphen"/>ted
+<pb n="92" facs="tcp:35016:57"/>upon thoſe days are unfolded, the Hiſtory repreſented, or the Example applied to the great benefit and edi<g ref="char:EOLhyphen"/>fication of thoſe that truly fear God, and deſire to improve themſelves in ſaving knowledge, and are willing to imitate the holy Examples of thoſe faithfull Servants of God, who are departed this life in his Faith and Fear.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Is this all then?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>No: for beſides all this, our Liturgy contains a Form for the Ad<g ref="char:EOLhyphen"/>miniſtration of the Lord's-Supper; another for the Publick Baptiſm of Infants; another for ſuch of riper years; as likewiſe a ſhort Catechiſm; the Order of Confirmation; a Form for the Solemnizing of Matrimony; the Order for the Viſitation of the Sick, with the Form of Adminiſtring to them the Holy Communion; the
+<pb n="93" facs="tcp:35016:57"/>Order for the Burial of the Dead, and the Thankſgiving of Women after Child-birth; and, laſtly, a Commi<g ref="char:EOLhyphen"/>nation of God's Anger and Judgment againſt Sinners.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Ay, here's a multiplicity of Forms indeed; but I am confi<g ref="char:EOLhyphen"/>dent, if you would ſpeak ſincerely and from your heart; you will grant me, that all theſe Forms are very uſeleſs and unneceſſary.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If I ſhould grant you this, I muſt not onely ſpeak againſt my Judgment and Conſcience, but alſo condemn our <hi>French</hi> Reformed Chur<g ref="char:EOLhyphen"/>ches; ſince it is moſt certain, that they alſo have Forms appointed for moſt of the foreſaid occaſions: For inſtance; we have ſet Forms for Ce<g ref="char:EOLhyphen"/>lebrating of the Holy Communion, for the Baptizing of Children, for the Solemnizing of Matrimony, <hi>&amp;c.</hi> And
+<pb n="94" facs="tcp:35016:58"/>laſtly, I ſhould condemn and oppoſe the general ſenſe of our <hi>French</hi> Prote<g ref="char:EOLhyphen"/>ſtants, who have always had, and ſtill have a great reſpect and veneration, not onely for thoſe Forms laſt men<g ref="char:EOLhyphen"/>tioned, but for the whole Body of the Engliſh Liturgy.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>You are pleaſed to ſay ſo.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>And you will be forc'd to ſay ſo too, if you pleaſe onely to take the trouble to reade Dr. <hi>Durel</hi>'s Treatiſe in Defence of the Engliſh Liturgy; for there you will meet with unqueſtionable Records of the Opinion and Judgment of all the ableſt and moſt learned Divines a<g ref="char:EOLhyphen"/>mongſt the <hi>French</hi> Proteſtants, who have in all times, and upon all oc<g ref="char:EOLhyphen"/>caſions, as far declared themſelves for the <hi>Engliſh</hi> Common-prayer, and ſpoken as highly and favourably of it as any of the Divines of the Church of <hi>England</hi> ever did.</p>
+            </sp>
+            <pb n="95" facs="tcp:35016:58"/>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I have not Dr. <hi>Durel</hi>'s Book, and therefore cannot ſatisfie my ſelf by peruſing of it; but if you will be pleas'd to inform me what he ſaith concerning the Judgment of your <hi>French</hi> Divines, with reſpect to our <hi>Engliſh</hi> Liturgy, I ſhall be glad to hear it.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Dr. <hi>Durel,</hi> amongſt other Teſtimonies, produceth a Letter of the Reverend Monſieur <hi>de l' Angle,</hi> at that time one of the Miniſters of the Reformed Church of <hi>Roan,</hi> a Per<g ref="char:EOLhyphen"/>ſon of great Worth and Fame; where<g ref="char:EOLhyphen"/>in, upon occaſion of the happy Re<g ref="char:EOLhyphen"/>ſtauration of King <hi>Charles</hi> II. he ſaith, <hi>Taht his heart leaped for joy, when he was told that the</hi> Engliſh <hi>Liturgy and antient Diſcipline was like to be re<g ref="char:EOLhyphen"/>ſtor'd.</hi> He alledgeth another Teſti<g ref="char:EOLhyphen"/>mony of Monſieur <hi>Gache</hi>'s, then Mi<g ref="char:EOLhyphen"/>niſter of <hi>Chearenton,</hi> one of the moſt
+<pb n="96" facs="tcp:35016:59"/>eloquent and zealous Preachers the <hi>French</hi> Reformed Churches ever had, who in one of his Letters declares, <hi>That he had read the</hi> Engliſh <hi>Liturgy, and had been wonderfully edified by it.</hi> He produceth alſo a Letter of Monſieur <hi>du Boſc,</hi> the Miniſter of <hi>Cane,</hi> an extraordinary Perſon for Learning, Eloquence and true Piety; where he declares, <hi>That he as much approves of a miniſter performing Di<g ref="char:EOLhyphen"/>vine Service, after the way of the Church of</hi> England, <hi>as he that offici<g ref="char:EOLhyphen"/>ates according to the manner of the</hi> French <hi>Reformed Churches.</hi> Beſides theſe, he ſets down the Teſtimony of Monſieur <hi>Bochart</hi> the Miniſter of <hi>Alancon,</hi> a Man of great Repute and Learning, who declares <hi>he found the Liturgy to be very good, and well or<g ref="char:EOLhyphen"/>der'd;</hi> as alſo that of Monſieur <hi>Goy<g ref="char:EOLhyphen"/>on,</hi> Miniſter of <hi>Bordeaux,</hi> one of the moſt greave and learned Divines of all the Province of <hi>Aquitain,</hi> and
+<pb n="97" facs="tcp:35016:59"/>greatly verſed in Antiquity, in theſe words: <hi>There is not one Miniſter</hi> (ſaith he) <hi>in all the Province of</hi> A<g ref="char:EOLhyphen"/>quitain, <hi>that thinks his Conſcience of<g ref="char:EOLhyphen"/>fended by uſing of the</hi> Engliſh <hi>Liturgy; and declares that thoſe people dream and dote, who are of that Opinion; and thoſe Gentlemen amongſt you do ex<g ref="char:EOLhyphen"/>treamly wrong us, when they quote us for to foment their Schiſm, which cannot but be very ſcandalous.</hi>
+               </p>
+               <p>But that I may not be further te<g ref="char:EOLhyphen"/>dious, I ſhall refer you to the fore<g ref="char:EOLhyphen"/>ſaid Book of Dr. <hi>Durel,</hi> where you will find enough to convince you, that all our worthy Divines, ſuch as <hi>Peter du Moulin,</hi> Monſieur <hi>Drelin<g ref="char:EOLhyphen"/>court,</hi> Monſieur <hi>Daillé,</hi> Monſieur <hi>A<g ref="char:EOLhyphen"/>myraut,</hi> &amp;c. have expreſs'd no leſs Eſteem for the <hi>Engliſh</hi> Liturgy, than any Son of the Church of <hi>England</hi> ever did. To all which Teſtimo<g ref="char:EOLhyphen"/>nies, I will add that of <hi>Spanhemius</hi> a <hi>French</hi> Divine, and ſometimes Prea<g ref="char:EOLhyphen"/>cher
+<pb n="98" facs="tcp:35016:60"/>and Divinity-Reader at <hi>Geneva,</hi> in his Epiſtle Dedicatory to the Lord Primate of <hi>Ireland,</hi> prefixed to the Third Part of his <hi>Dubia E<g ref="char:EOLhyphen"/>vangelica;</hi> where commending the Publick Worſhip of God in the Church of <hi>England,</hi> he declares, that <hi>the like is ſcarcely to be found elſewhere.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>According to what you tell me, I cannot believe your <hi>French</hi> Divines to be <hi>Calviniſts;</hi> for I am confident <hi>Calvin</hi> was not of their o<g ref="char:EOLhyphen"/>pinion with regard to the <hi>Engliſh</hi> Li<g ref="char:EOLhyphen"/>turgy.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>To the end you may be a<g ref="char:EOLhyphen"/>ble to judge what <hi>Calvin</hi>'s opinion was about this matter, I ſhall refer you to a paſſage of his, in an Epi<g ref="char:EOLhyphen"/>ſtle Dedicatory to the Duke of <hi>So<g ref="char:EOLhyphen"/>merſet,</hi> Lord Protector during the minority of King <hi>Edward</hi> VI. which
+<pb n="99" facs="tcp:35016:60"/>will convince you, I ſuppoſe, that he was of the ſame judgment with the reſt of our <hi>French</hi> Divines; his words are theſe, <hi>Quoad formam Precum &amp; Rituum Eccleſiaſticorum,</hi> valde probo, <hi>ut certa illa exſtet, à qua Paſtoribus diſcedere in functione ſua non liceat, tam ut conſulatur quorundam ſimplici<g ref="char:EOLhyphen"/>tati &amp; imperitioe, quam ut certius ita conſtet omnium inter ſe Eccleſia<g ref="char:EOLhyphen"/>rum conſenſus; poſtremò etiam ut ob<g ref="char:EOLhyphen"/>viam eatur deſultoriae quorundam levi<g ref="char:EOLhyphen"/>tati, qui novationes quaſdam affectant.</hi> Which may be engliſhed thus, <hi>As touching the form of Prayer and Cere<g ref="char:EOLhyphen"/>monies of the Church,</hi> I do extremely approve, <hi>that it be ſet and fixed, ſo as it may not be lawfull for the Mini<g ref="char:EOLhyphen"/>ſters to recede from it, in their functi<g ref="char:EOLhyphen"/>on; as well to help and aſſiſt the ſim<g ref="char:EOLhyphen"/>plicity and unſkilfulneſs of ſome, as to give a fuller evidence of the conſent and uniformity of all the ſeveral Con<g ref="char:EOLhyphen"/>gregations; and finally, that by this
+<pb n="100" facs="tcp:35016:61"/>means, the changeable humour of thoſe that affect novelties may be check'd and obviated.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>I always thought <hi>Calvin</hi> had been of the ſame judgment that we are, though you would ſeem to perſuade me to the contrary. But to make an end of our Diſcourſe at this time, I ſhall onely ask you one queſtion more, and then I have done, which is this, What your <hi>French</hi> Di<g ref="char:EOLhyphen"/>vines judge concerning us, who for Conſcience ſake refuſe to make uſe of the Liturgy in our Aſſemblies, or to frequent the Congregations of thoſe that do?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>What you deſire you may find in the forementioned Diſcourſe of Dr. <hi>Durel,</hi> where he ſets down this Letter of the Reverend Monſieur <hi>Goyon,</hi> Miniſter at <hi>Bordeaux,</hi> which is thus tranſlated:</p>
+               <pb n="101" facs="tcp:35016:61"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>I</hi> Have received your Letter with an extreme ſatisfaction, as having been informed thereby, both of your own condition, and of that of the Church of <hi>England.</hi> I muſt confeſs that we have been ſtrangely deceived in this Countrey, by what hath been related to us touching the <hi>Engliſh</hi> Presbyterians. I did always imagine them to be a People that followed the ſame order we obſerve in our Churches of <hi>France;</hi> but it ſeems they are very far from it. The Deſcription you give of them, ſhews them to be a ſtrange Sect, not fit to be tolerated; and, I conceive, that the beſt remedy of this diſorder and confuſion would be, to reduce them all to the Epiſcopal Go<g ref="char:EOLhyphen"/>vernment, for I hold it impoſſible that the Church of <hi>England</hi> ſhould ever be quiet or flouriſh otherwiſe. The Con<g ref="char:EOLhyphen"/>vocation comes in a very fit time for
+<pb n="102" facs="tcp:35016:62"/>this purpoſe; and I queſtion not but that Aſſembly will take order about it, which will be a great ſatisfaction to me; for otherwiſe you will be conti<g ref="char:EOLhyphen"/>nually in trouble, and the Adverſa<g ref="char:EOLhyphen"/>ries will take advantage thereby either to blemiſh and ſlander our Religion, or to contrive and foment Plots againſt the State. I beſeech the Lord that he would be pleaſed to rule and go<g ref="char:EOLhyphen"/>vern that Holy Aſſembly, and pour his Bleſſings upon their Determinati<g ref="char:EOLhyphen"/>ons for the Advancement of his King<g ref="char:EOLhyphen"/>dom.</p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>Though this Man ſaith too much, yet he ſaith nothing in par<g ref="char:EOLhyphen"/>ticular to the point of our refuſing to reade the Common-prayer in our Aſſemblies, and to frequent the Chur<g ref="char:EOLhyphen"/>ches where it is read.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If you think that Monſieur <hi>Goyon</hi> doth not ſpeak home enough
+<pb n="103" facs="tcp:35016:62"/>to the matter in queſtion, be plea<g ref="char:EOLhyphen"/>ſed to reade what <hi>Ludovicus Capellus,</hi> Divinity-Profeſſor at <hi>Saumur,</hi> ſaith to it, in the Body of Divinity pub<g ref="char:EOLhyphen"/>liſhed by him and his two Col<g ref="char:EOLhyphen"/>legues, <hi>Moſes Amyraldus</hi> and <hi>Joſhua Placoeus;</hi> in which Book this Lear<g ref="char:EOLhyphen"/>ned Man, having at large proved the <hi>Lawfulneſs, <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Neceſſity</hi> of a ſet Form of Liturgy, in oppoſition to the then newly ſtarted <hi>Directory,</hi> which the Presbyterians endeavour'd to eſtabliſh inſtead of the Common-prayer. It is alſo worthy our noting, that he maintain'd a publick Diſpute on this Subject in the Divinity-School, wherein he defended the Common-prayer of the Church of <hi>England,</hi> as good, ſound and expe<g ref="char:EOLhyphen"/>dient, againſt the Cavils and Objec<g ref="char:EOLhyphen"/>tions of the Presbyterians, even at that very time when the Oppoſers of ſet Forms were in the greateſt power in this Kingdom, and that it
+<pb n="104" facs="tcp:35016:63"/>was generally believed the Liturgy of the Church of <hi>England</hi> would ne<g ref="char:EOLhyphen"/>ver have been reſtored.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But what ſaith he in parti<g ref="char:EOLhyphen"/>cular of us, for if you don't tell me, I ſhall ſcarce take the pains of reading over his Book to inform my ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>I am unwilling to give you his words, becauſe I fear you'll find ſome of his Expreſſions too ſharp and cutting.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>As long as I ſuppoſe he was no <hi>Engliſh</hi> Tory, I ſhall take all he ſaith of us in good part.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Towards the end of his firſt <hi>Theſis,</hi> he ſaith, <hi>
+                     <g ref="char:V">Ʋ</g>num ſupereſt exa<g ref="char:EOLhyphen"/>minandum,</hi> &amp;c. which in <hi>Engliſh</hi> ſpeaks thus: <q>There remains yet one thing to be enquir'd into, <hi>viz.</hi> Whether there ought to be a cer<g ref="char:EOLhyphen"/>tain
+<pb n="105" facs="tcp:35016:63"/>ſet Form of Liturgy, conſiſ<g ref="char:EOLhyphen"/>ting of expreſs words; or, Whe<g ref="char:EOLhyphen"/>ther it ought rather to be left to the will of the Paſtor, to uſe what words or form he pleaſeth; and this becauſe of a new Generation of late Upſtarts, which will ad<g ref="char:EOLhyphen"/>mit of no certain and preſcribed Form of Liturgy, neither in the publick Aſſemblies of the Church, nor in private Devotions; but maintain that all ought to be left to the pleaſure of Miniſters and the Heads of Families. And in his ſixth <hi>Theſis</hi> he declares, That the ſeveral Authors of the Reformati<g ref="char:EOLhyphen"/>on had every where compos'd and preſcrib'd ſeveral ſet Forms of Li<g ref="char:EOLhyphen"/>turgy, and that the ſame were ſtill made uſe of by the Reformed Churches in their ſeveral Nations and Diſtricts with happy ſucceſs and edification; till of late there aroſe in <hi>England</hi> a froward, ſcru<g ref="char:EOLhyphen"/>pulous
+<pb n="106" facs="tcp:35016:64"/>and over nice (not to ſay ſuperſtitious) Generation of men, who thought good not onely to blame and find fault with, but wholly to abrogate and caſt off the Liturgy hitherto uſed in their Church, inſtead whereof they have introduc'd their <hi>Directory</hi> as they call it. He adds further, That the Reaſons and Cauſes you pretend to have for aboliſhing the Common-prayer were <hi>leviſſimoe, nulliuſque pene momenti,</hi> very ſlight, and ſcarce of any moment at all.</q> And in <hi>Theſis</hi> 28. he ſaith, <q>Cer<g ref="char:EOLhyphen"/>tainly nothing elſe has ſtirred up theſe men ſo eagerly to reject all manner of ſet Forms of Prayer, but partly the deſire of innovating and corrupting, to the end that, under the ſpecious pretext of Li<g ref="char:EOLhyphen"/>berty to pray and propheſie, they might introduce all manner of Sects and Errors into the Church;
+<pb n="107" facs="tcp:35016:64"/>and partly their falſe and prejudi<g ref="char:EOLhyphen"/>cate opinion, perſuading them<g ref="char:EOLhyphen"/>ſelves that we are now arriv'd at that time, wherein, as in the days of the Apoſtles, the Spirit of Pro<g ref="char:EOLhyphen"/>phecy, of Prayer and Supplicati<g ref="char:EOLhyphen"/>ons, is to be poured forth upon the preſent Church, according to that of <hi>Joel</hi> 2.28. and <hi>Zach.</hi> 12. v. 10. which is the common and moſt peſtilent Error of all the Phanaticks, concerning the fen<g ref="char:EOLhyphen"/>ding of the H. Ghoſt by Chriſt, <hi>&amp;c.</hi>
+                  </q> And drawing up his whole Diſſer<g ref="char:EOLhyphen"/>tation into certain Concluſions, he ſaith, <hi>Theſis</hi> 49. <q>The uſe of theſe ſet Forms of Prayer cannot juſtly be condemned, foraſmuch as the ſame may be always and e<g ref="char:EOLhyphen"/>very where profitable and conve<g ref="char:EOLhyphen"/>nient; and becauſe they have been receiv'd by the univerſal Chriſtian Church for theſe 1300 years all the World over, except onely a<g ref="char:EOLhyphen"/>mong
+<pb n="108" facs="tcp:35016:65"/>theſe new-fangled <hi>Indepen<g ref="char:EOLhyphen"/>dents,</hi> ſo he calls all thoſe who re<g ref="char:EOLhyphen"/>ject the uſe of ſet Forms. And <hi>Theſis</hi> 50. he adds further; So that the perverſneſs, peeviſhneſs and ſuperſtition, or rather the mala<g ref="char:EOLhyphen"/>pert and obſtinate wilfulneſs of theſe men is both prodigious and ſenſleſs, who, out of a mere hu<g ref="char:EOLhyphen"/>mour or deſire of lawleſs licenti<g ref="char:EOLhyphen"/>ouſneſs, or out of deſign to in<g ref="char:EOLhyphen"/>troduce confuſion into the Church, do ſuperſtitiouſly condemn and compare to an Idol, forbidden by the fourth Commandment, a thing which in it ſelf is moſt in<g ref="char:EOLhyphen"/>nocent, the uſe of it edifying, and the practice of it moſt convenient, which has long obtained in the Univerſal Church, was never yet condemned by any Church, and which all the Churches of God make uſe of with the greateſt be<g ref="char:EOLhyphen"/>nefit that may be, which yet
+<pb n="109" facs="tcp:35016:65"/>theſe men, moſt fooliſhly, would have all to forbear and abhor.</q> And laſtly, in 51 <hi>Theſis,</hi> he ſaith, <q>And amongſt the reſt, thoſe are moſt to be deteſted, who either will not allow the Lord's Prayer to be ſaid at all, or will have it ſaid alone, and not in conjuncti<g ref="char:EOLhyphen"/>on with any other Prayer whether publick or private, and who think it a great ſin for any godly man to be preſent either in the Church at Common-prayer, or in any Fa<g ref="char:EOLhyphen"/>mily at private Devotions, where any ſet Form is uſed; and hold this for a juſt cauſe of Separation from the Church, leſt they ſhould be Partakers of the Sins of thoſe who uſe ſet Forms, and thereby become defiled, being not unlike to thoſe of whom the Prophet <hi>I<g ref="char:EOLhyphen"/>ſaith</hi> ſpeaks, <hi>chap.</hi> 6. <hi>v.</hi> 5. <hi>which ſay, Stand by thy ſelf; come not near me; for I am holier than
+<pb n="110" facs="tcp:35016:66"/>thou; theſe are a ſmoak in my no<g ref="char:EOLhyphen"/>ſtrils, ſaith the Lord:</hi> that is, they kindle my wrath againſt them. The Lord grant they may return to a better mind. <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>And ſo ſay I too. <hi>Amen, Amen.</hi>
+               </p>
+               <p>And thus I take my leave of you in the words of this Learned and moſt Renowned Divine.</p>
+            </sp>
+            <sp>
+               <speaker>E. D.</speaker>
+               <p>But pray why in ſuch haſte? We have not yet made an end of our diſpute; for when I told you I had done, I meant with your Liturgy: Wherefore now it remains that we diſcourſe concerning the <hi>Ce<g ref="char:EOLhyphen"/>remonies</hi> of your Church, which I intended for a Second Part of this our Conference.</p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>If I be not miſtaken, we have diſcours'd long enough for
+<pb n="111" facs="tcp:35016:66"/>once; beſides, I muſt give you time to conſider what hath been ſaid; and if you chance to approve it, and deſire further to diſcourſe me about the <hi>Ceremonies</hi> of the Church; I now aſſure you, that I ſhall at any time be ready to ſerve you to the utmoſt of my power.</p>
+            </sp>
+         </div>
+         <trailer>The End of the Firſt Part.</trailer>
+      </body>
+   </text>
+</TEI>
